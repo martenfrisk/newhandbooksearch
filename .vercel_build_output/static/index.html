@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<title>Home</title>
+
+		
+
+		<link rel="modulepreload" href="/./_app/start-d40e0f6a.js">
+		<link rel="modulepreload" href="/./_app/chunks/vendor-7e9bbbe2.js">
+		<link rel="modulepreload" href="/./_app/pages/__layout.svelte-2b7bf193.js">
+		<link rel="modulepreload" href="/./_app/pages/index.svelte-c8bb1336.js">
+		<link rel="stylesheet" href="/./_app/assets/start-0826e215.css">
+		<link rel="stylesheet" href="/./_app/assets/pages/__layout.svelte-39eaa565.css">
+
+		<script type="module">
+			import { start } from "/./_app/start-d40e0f6a.js";
+			start({
+				target: document.querySelector("#svelte"),
+				paths: {"base":"","assets":"/."},
+				session: {},
+				host: location.host,
+				route: true,
+				spa: false,
+				trailing_slash: "never",
+				hydrate: {
+					status: 200,
+					error: null,
+					nodes: [
+						import("/./_app/pages/__layout.svelte-2b7bf193.js"),
+						import("/./_app/pages/index.svelte-c8bb1336.js")
+					],
+					page: {
+						host: location.host, // TODO this is redundant
+						path: "/",
+						query: new URLSearchParams(""),
+						params: {}
+					}
+				}
+			});
+		</script>
+	</head>
+	<body>
+		<div id="svelte">
+
+
+
+
+<section><h1 class="text-3xl text-blue-400">Handbook Search</h1>
+	<p>The unofficial Hollywood Handbook search engine</p>
+	<div class="mx-auto w-full px-10 md:px-4 md:w-3/4"><input class="w-full h-12 px-4 text-xl border border-gray-500 outline-none" type="text">
+	
+	<p class="my-2"></p>
+	<button>Random phrase</button>
+	</div></section>
+
+
+
+	
+</div>
+	</body>
+</html>
