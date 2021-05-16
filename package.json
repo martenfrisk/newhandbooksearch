@@ -9,7 +9,7 @@
     "format": "prettier --write --plugin-search-dir=. ."
   },
   "devDependencies": {
-    "@sveltejs/adapter-cloudflare-workers": "^1.0.0-next.7",
+    "@sveltejs/adapter-vercel": "^1.0.0-next.17",
     "@sveltejs/kit": "next",
     "@typescript-eslint/eslint-plugin": "^4.19.0",
     "@typescript-eslint/parser": "^4.19.0",
@@ -30,12 +30,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@fontsource/fira-mono": "^4.2.2",
-    "@lukeed/uuid": "^2.0.0",
-    "@meilisearch/instant-meilisearch": "^0.4.2",
     "cookie": "^0.4.1",
-    "fuse.js": "^6.4.6",
-    "instantsearch.js": "^4.22.0",
     "meilisearch": "^0.18.2"
   }
 }
