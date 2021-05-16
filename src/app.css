@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	em {
+		@apply text-blue-600 not-italic font-bold
+	}
+}
