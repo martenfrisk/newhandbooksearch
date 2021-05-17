@@ -26,3 +26,11 @@ export interface SearchResult {
 		processingTimeMs: number;
 		query: string;
 }
+
+export interface EpisodeInfo {
+	id: string;
+	title: string;
+	pubDate: string;
+	description: string;
+	isoDate: Date;
+}
