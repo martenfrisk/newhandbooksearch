@@ -17,15 +17,8 @@
 		apiKey: 'masterKey'
 	});
 
-	// An index is where the documents are stored.
 	const index = client.index('handbook');
 	async function search() {
-		// const data = await fetch(
-		// 	`https://meili-router-zraqvc5gd4kituxj-gtw.qovery.io/indexes/handbook/search?q=${query}`,
-		// 	{
-		// 		headers: { 'X-Meili-Api-Key': 'masterKey' }
-		// 	}
-		// );
 		const data =
 			filter === ''
 				? await index.search(query, { attributesToHighlight: ['line'] })
@@ -33,8 +26,6 @@
 						attributesToHighlight: ['line'],
 						filters: `episode = "${filter}"`
 				  });
-		// const res: SearchResult = await data.json();
-console.log(data)
 
 		stats = {
 			nbHits: data.nbHits,
@@ -85,8 +76,16 @@ console.log(data)
 			<div class="w-full px-4 pb-6 mb-6 shadow-md hover:bg-blue-100">
 				<div class="flex flex-wrap items-center justify-between w-full mb-2">
 					<div class="flex items-center">
-						<div class="pt-1 mr-2 text-xs text-gray-700 uppercase">#{findEpNr(hit.episode, 'id')}</div>
-						<div class="text-sm text-gray-800 md:text-base">{hit.episode} ({new Date(findEpNr(hit.episode, 'isoDate')).toDateString()})</div>
+						<div class="pt-1 mr-2 text-xs text-gray-700 uppercase">
+							<a sveltekit:prefetch href={`ep/${findEpNr(hit.episode, 'id')}`}>
+								#{findEpNr(hit.episode, 'id')}
+							</a>
+						</div>
+						<div class="text-sm text-gray-800 md:text-base">
+							<a sveltekit:prefetch href={`ep/${findEpNr(hit.episode, 'id')}`}>
+							{hit.episode} ({new Date(findEpNr(hit.episode, 'isoDate')).toDateString()})
+							</a>
+						</div>
 					</div>
 					<div class="flex items-center font-mono text-right text-gray-600">
 						<div class="mr-2 font-sans text-black">{hit.speaker}</div>
