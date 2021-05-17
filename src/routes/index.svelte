@@ -9,11 +9,9 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+  <title>Handbook Search ★ The Hollywood Handbook Transcript Search Engine</title>
 </svelte:head>
 
 <section>
-	<h1 class="text-3xl text-blue-400">Handbook Search</h1>
-	<p>The unofficial Hollywood Handbook search engine</p>
 	<Search />
 </section>
