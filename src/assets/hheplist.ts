@@ -713,7 +713,7 @@
 	},
 	{
 		id: '90',
-		title: 'Brian Huskey, Our Live Friend',
+		title: 'Brian Huskey, Our LIVE Friend',
 		pubDate: 'Mon, 29 Jun 2015 10:00:00 GMT',
 		description:
 			'Hayes and Sean are back for another live episode where they kick off the show with "The Brand That Rocks the Cable", a segment where they help out audience members with their brand. Then, fan favorite Brian Huskey teams back up with the boys for "Teen Pope 2", a sequel to the biggest movie of all time. Finally, a live popcorn gallery asks questions from die-hard fans. ',
