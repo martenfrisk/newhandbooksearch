@@ -51,7 +51,7 @@
 
 </script>
 
-<div class="mx-auto w-full px-10 md:px-4 md:w-3/4">
+<div class="mx-auto mt-8 w-full px-10 md:px-4 md:w-3/4">
 	<input
 		class="w-full h-12 px-4 text-xl border border-gray-500 outline-none"
 		type="text"
@@ -73,20 +73,16 @@
 	<button on:click={newRandom}>Random phrase</button>
 	{#if hits}
 		{#each hits as hit}
-			<div class="w-full px-4 pb-6 mb-6 shadow-md hover:bg-blue-100">
+			<div class="w-full px-4 pb-6 mb-6 shadow-md hover:bg-blue-50">
 				<div class="flex flex-wrap items-center justify-between w-full mb-2">
-					<div class="flex items-center">
-						<div class="pt-1 mr-2 text-xs text-gray-700 uppercase">
-							<a sveltekit:prefetch href={`ep/${findEpNr(hit.episode, 'id')}`}>
+						<a sveltekit:prefetch class="hover:underline flex py-2 items-center" href={`ep/${findEpNr(hit.episode, 'id')}`}>
+							<div class="pt-1 mr-2 text-xs text-gray-700 uppercase">
 								#{findEpNr(hit.episode, 'id')}
-							</a>
-						</div>
-						<div class="text-sm text-gray-800 md:text-base">
-							<a sveltekit:prefetch href={`ep/${findEpNr(hit.episode, 'id')}`}>
-							{hit.episode} ({new Date(findEpNr(hit.episode, 'isoDate')).toDateString()})
-							</a>
-						</div>
-					</div>
+							</div>
+							<div class="text-sm text-gray-800 md:text-base">
+								{hit.episode} ({new Date(findEpNr(hit.episode, 'isoDate')).toDateString()})
+							</div>
+						</a>
 					<div class="flex items-center font-mono text-right text-gray-600">
 						<div class="mr-2 font-sans text-black">{hit.speaker}</div>
 						<div class="mr-2 font-sans text-right text-blue-600 border-b-2 border-dotted">
