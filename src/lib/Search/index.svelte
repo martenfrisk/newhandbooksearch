@@ -51,7 +51,7 @@
 
 </script>
 
-<div class="mx-auto mt-8 w-full px-10 md:px-4 md:w-3/4">
+<div class="mx-auto md:mt-8 w-full px-10 md:px-4 md:w-3/4">
 	<input
 		class="w-full h-12 px-4 text-xl border border-gray-500 outline-none"
 		type="text"
@@ -64,13 +64,13 @@
 		bind:value={filter}
 		on:keyup={throttledSearch}
 	/> -->
-	<p class="my-2">
+	<p class="my-2 text-xs md:text-sm">
 		{#if stats}
 			Found {stats.nbHits} hits for <span class="font-bold">{query}</span> in {stats.processingTime}
 			ms
 		{/if}
 	</p>
-	<button on:click={newRandom}>Random phrase</button>
+	<button on:click={newRandom} class="mb-2 rounded-md bg-yellow-50 transform hover:shadow-sm hover:bg-yellow-100 border-yellow-500 border px-4 py-2">Random phrase</button>
 	{#if hits}
 		{#each hits as hit}
 			<div class="w-full px-4 pb-6 mb-6 shadow-md hover:bg-blue-50">
