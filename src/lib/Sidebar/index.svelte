@@ -68,6 +68,12 @@
 			<div>
 				<div>
 					<p class="my-4">
+						Only episodes of regular Hollywood Handbook up until around July 2020 are included. Unfortunately the cost of automatic transcription is about $1.5/hour which quickly adds up when Pro Version episodes are included.
+					</p>
+					<p class="my-4">
+						If you have AWS credits lying around (or have some other means of automatic transcription) and want to support this project, feel free to contact me on reddit (u/martanor) or e-mailing m@frisk.group. 
+					</p>
+					<p class="my-4">
 						Transcripts are unedited. Speakers not identified. Timestamp are approximate. 
 					</p>
 				</div>

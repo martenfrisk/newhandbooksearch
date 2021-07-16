@@ -4,6 +4,7 @@
 	import type { SearchHit, SearchResult } from '$lib/types';
 	import { getRandomInt, highlight, randomQuery, secToMins, throttle } from './utils';
 	import { EpList } from '../../assets/hheplist';
+	import { VITE_APIKEY } from '$lib/Env';
 
 	let query = '';
 	let hits: any[],
@@ -13,8 +14,8 @@
 			processingTime: SearchResult['processingTimeMs'];
 		};
 	const client = new MeiliSearch({
-		host: 'https://meili-router-zraqvc5gd4kituxj-gtw.qovery.io',
-		apiKey: 'masterKey'
+		host: 'https://ts.pcast.site/',
+		apiKey: VITE_APIKEY.toString()
 	});
 
 	const index = client.index('handbook');
@@ -48,7 +49,6 @@
 		query = randomQuery[getRandomInt(randomQuery.length)];
 		search();
 	}
-
 </script>
 
 <div class="mx-auto md:mt-8 w-full px-10 md:px-4 md:w-3/4">
@@ -70,19 +70,27 @@
 			ms
 		{/if}
 	</p>
-	<button on:click={newRandom} class="mb-2 rounded-md bg-yellow-50 transform hover:shadow-sm hover:bg-yellow-100 border-yellow-500 border px-4 py-2">Random phrase</button>
+	<button
+		on:click={newRandom}
+		class="mb-2 rounded-md bg-yellow-50 transform hover:shadow-sm hover:bg-yellow-100 border-yellow-500 border px-4 py-2"
+		>Random phrase</button
+	>
 	{#if hits}
 		{#each hits as hit}
 			<div class="w-full px-4 pb-6 mb-6 shadow-md hover:bg-blue-50">
 				<div class="flex flex-wrap items-center justify-between w-full mb-2">
-						<a sveltekit:prefetch class="hover:underline flex py-2 items-center" href={`ep/${findEpNr(hit.episode, 'id')}`}>
-							<div class="pt-1 mr-2 text-xs text-gray-700 uppercase">
-								#{findEpNr(hit.episode, 'id')}
-							</div>
-							<div class="text-sm text-gray-800 md:text-base">
-								{hit.episode} ({new Date(findEpNr(hit.episode, 'isoDate')).toDateString()})
-							</div>
-						</a>
+					<a
+						sveltekit:prefetch
+						class="hover:underline flex py-2 items-center"
+						href={`ep/${findEpNr(hit.episode, 'id')}`}
+					>
+						<div class="pt-1 mr-2 text-xs text-gray-700 uppercase">
+							#{findEpNr(hit.episode, 'id')}
+						</div>
+						<div class="text-sm text-gray-800 md:text-base">
+							{hit.episode} ({new Date(findEpNr(hit.episode, 'isoDate')).toDateString()})
+						</div>
+					</a>
 					<div class="flex items-center font-mono text-right text-gray-600">
 						<div class="mr-2 font-sans text-black">{hit.speaker}</div>
 						<div class="mr-2 font-sans text-right text-blue-600 border-b-2 border-dotted">
