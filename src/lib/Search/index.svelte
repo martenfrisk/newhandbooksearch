@@ -15,7 +15,7 @@
 		};
 	const client = new MeiliSearch({
 		host: 'https://ts.pcast.site/',
-		apiKey: VITE_APIKEY.toString()
+		apiKey: VITE_APIKEY
 	});
 
 	const index = client.index('handbook');

@@ -1,1 +1,1 @@
-export const VITE_APIKEY = import.meta.env.VITE_APIKEY || ''
+export const VITE_APIKEY = import.meta.env.VITE_APIKEY.toString()
