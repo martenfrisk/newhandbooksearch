@@ -1,0 +1,7130 @@
+[
+  {
+    "id": "101-0",
+    "time": "0:00:00",
+    "speaker": "spk_0",
+    "line": "hey, gang. Wanna know which ad this one is. I'll tell you. This episode's brought to you by ryan morrison law dot com. If you're a video game developer, you need a video game attorney. Don't let a frivolous cease and desist from a competitor or dispute with a contractor, remove your game or app from the marketplace. Here's one thing. One thing I wanna make clear so Ryan Morrison is a video game attorney. He's not a video game attorney. Does that make sense? So he's so he's ryan morrison law dot com and you go there, and this is a real guy, not a video game guy. And what he does is he's doing law attorney stuff that deals with video games, but you can't control him. It's not like you hit you know, be and he jumps over a briefcase or something, that would be a video game inter and that and I'm interested in that and I'm working on that. It's a game, you know, hopefully coming out soon called courtroom scramble. There's a video game attorney and he's, you know, deals the judges gavel and kills the whole jury hits him in the head. But anyway, he's worked hard. The real Ryan Morrison has worked hard to make the legal world a lot less scary for game developers. So head to ryan morrison law dot com or Google video game attorney and you'll find out more. But make sure when you Google it video game attorney, you pronounce it right because otherwise you'll go to my video game attorney, which is still in beta.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-1",
+    "time": "0:01:42",
+    "speaker": "spk_1",
+    "line": "Oh, yeah. You know when you hear that, you know what it means. Right? We're on. We're on. It's another episode of well, it's not another. It's our first episode, the inaugural episode of Tom the Tom and Greesnows show.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-2",
+    "time": "0:01:57",
+    "speaker": "spk_2",
+    "line": "Nice to know.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-3",
+    "time": "0:01:57",
+    "speaker": "spk_1",
+    "line": "Like to just be called Greesnows. It's Cody. Right?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-4",
+    "time": "0:02:00",
+    "speaker": "spk_2",
+    "line": "Engineer Cody. Engineer Cody. Engineer Cody Boy.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-5",
+    "time": "0:02:04",
+    "speaker": "spk_1",
+    "line": "Okay. But I just like, well, I'll call you since we're doing, like, fun show based on an episode of of Hollywood Handbook that we both did when when Hayes and Sean were pitching us different show ideas pitching me different show ideas. And then at one point, we ended up being paired as a as a like a morning radio team Tom and Greasnows. Because they call you clay I don't call you Greasnows. They stuck that with you. I'm running with it. But",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-6",
+    "time": "0:02:37",
+    "speaker": "spk_2",
+    "line": "yeah. I remember this. Yeah. It was like your claim to fame in many ways.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-7",
+    "time": "0:02:40",
+    "speaker": "spk_1",
+    "line": "A little bit. You're already Not sure whose allegiance you're with there already, a little troubling.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-8",
+    "time": "0:02:48",
+    "speaker": "spk_2",
+    "line": "Of course.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-9",
+    "time": "0:02:48",
+    "speaker": "spk_1",
+    "line": "But we're gonna do this. They planted the seed. Now we are going to run record this yeah. We're gonna record this episode of the show and see what's what. Maybe this is a thing. Right?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-10",
+    "time": "0:03:02",
+    "speaker": "spk_2",
+    "line": "Sure sure as hell could be.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-11",
+    "time": "0:03:04",
+    "speaker": "spk_1",
+    "line": "Because there was a little taste of it for like that five minutes when we did it. It was like I remember looking at you and being like I",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-12",
+    "time": "0:03:12",
+    "speaker": "spk_2",
+    "line": "couldn't see you really because like this computer screen was in the way.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-13",
+    "time": "0:03:15",
+    "speaker": "spk_1",
+    "line": "Oh, I",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-14",
+    "time": "0:03:15",
+    "speaker": "spk_2",
+    "line": "do remember that.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-15",
+    "time": "0:03:16",
+    "speaker": "spk_1",
+    "line": "Well, I remember looking at you being like I think me and you have something going here but apparently you couldn't see me during that so you it was not it was not a a a No.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-16",
+    "time": "0:03:26",
+    "speaker": "spk_3",
+    "line": "I felt",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-17",
+    "time": "0:03:26",
+    "speaker": "spk_2",
+    "line": "that I I it was more of the energy. It was -- Sure. -- radiating.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-18",
+    "time": "0:03:30",
+    "speaker": "spk_1",
+    "line": "So you did feel it. Yeah. That there's a good we have a a good chemistry.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-19",
+    "time": "0:03:34",
+    "speaker": "spk_2",
+    "line": "It's Most yeah. It's about confidence, you know.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-20",
+    "time": "0:03:36",
+    "speaker": "spk_1",
+    "line": "It is about confidence. So what's going on, Greece's nose?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-21",
+    "time": "0:03:42",
+    "speaker": "spk_2",
+    "line": "I mean, you know, run on the board. Mhmm. It's night, time, outside.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-22",
+    "time": "0:03:49",
+    "speaker": "spk_1",
+    "line": "Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-23",
+    "time": "0:03:49",
+    "speaker": "spk_2",
+    "line": "And it's a it's a great day. For for Tom and and Grace Knows is our pilot.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-24",
+    "time": "0:03:56",
+    "speaker": "spk_1",
+    "line": "It is the pilot. Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-25",
+    "time": "0:03:57",
+    "speaker": "spk_3",
+    "line": "I'm I'm gonna jump in. This is this is his. I'm here I'm here in the studio. This is good. This is just starting to heat up. You know what I mean?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-26",
+    "time": "0:04:07",
+    "speaker": "spk_1",
+    "line": "Sure.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-27",
+    "time": "0:04:08",
+    "speaker": "spk_3",
+    "line": "Like we've just into the part that I think everyone has been waiting for and they had to wait all this time -- Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-28",
+    "time": "0:04:14",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-29",
+    "time": "0:04:14",
+    "speaker": "spk_3",
+    "line": "while you sort of explored and and and and found it.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-30",
+    "time": "0:04:19",
+    "speaker": "spk_1",
+    "line": "Look at dance. Yes.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-31",
+    "time": "0:04:20",
+    "speaker": "spk_3",
+    "line": "Put a",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-32",
+    "time": "0:04:20",
+    "speaker": "spk_1",
+    "line": "little bit of a dance between us.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-33",
+    "time": "0:04:22",
+    "speaker": "spk_2",
+    "line": "Well, let's go Waltz.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-34",
+    "time": "0:04:25",
+    "speaker": "spk_3",
+    "line": "As we're going forward in this, I love the segment of Cody's Day. Mhmm. What's going on with Cody?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-35",
+    "time": "0:04:31",
+    "speaker": "spk_1",
+    "line": "Yeah. Because he said it's a great night. Yes. He said it's night and it's a great day. So you like that part",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-36",
+    "time": "0:04:38",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-37",
+    "time": "0:04:38",
+    "speaker": "spk_1",
+    "line": "mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-38",
+    "time": "0:04:39",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-39",
+    "time": "0:04:39",
+    "speaker": "spk_1",
+    "line": "that it's currently night and it's a great day. And",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-40",
+    "time": "0:04:43",
+    "speaker": "spk_3",
+    "line": "then right after that, he said it was a great day. Mhmm. And then he said something else at the beginning, I don't remember oh, he said he was running the board.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-41",
+    "time": "0:04:52",
+    "speaker": "spk_1",
+    "line": "I said what's up and he said, I'm running the board. Yes. It's night and it's a great day.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-42",
+    "time": "0:04:58",
+    "speaker": "spk_3",
+    "line": "I just wish we could get into it faster.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-43",
+    "time": "0:05:01",
+    "speaker": "spk_1",
+    "line": "Okay. And So we'll cut that first, like, four minutes out? Yes. Okay. For the pilot",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-44",
+    "time": "0:05:05",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-45",
+    "time": "0:05:06",
+    "speaker": "spk_3",
+    "line": "as you sort of -- sure. From for around",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-46",
+    "time": "0:05:09",
+    "speaker": "spk_1",
+    "line": "yeah. We'll find it. We'll find it. Okay. We",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-47",
+    "time": "0:05:11",
+    "speaker": "spk_2",
+    "line": "haven't even been recording for four minutes. Okay. So I I'm not sure why he said that.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-48",
+    "time": "0:05:15",
+    "speaker": "spk_1",
+    "line": "So we'll probably lose the top two minutes",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-49",
+    "time": "0:05:17",
+    "speaker": "spk_3",
+    "line": "okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-50",
+    "time": "0:05:18",
+    "speaker": "spk_1",
+    "line": "There. And then get right to",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-51",
+    "time": "0:05:20",
+    "speaker": "spk_2",
+    "line": "please don't shut that. His, please. Okay. Let's go. Hey, shut the door. Sorry.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-52",
+    "time": "0:05:26",
+    "speaker": "spk_1",
+    "line": "Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-53",
+    "time": "0:05:26",
+    "speaker": "spk_2",
+    "line": "I'm I'm claustrophobic a little right now.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-54",
+    "time": "0:05:29",
+    "speaker": "spk_1",
+    "line": "You are?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-55",
+    "time": "0:05:29",
+    "speaker": "spk_2",
+    "line": "It's like starting to heat up a little. Alright.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-56",
+    "time": "0:05:31",
+    "speaker": "spk_1",
+    "line": "Well, let's talk about that. Clostrophobia is the topic for the first episode of -- That's good. Tom and Greece No. Thank you. This cluster photo And",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-57",
+    "time": "0:05:40",
+    "speaker": "spk_3",
+    "line": "also can I say the Tom and Greas knows thing? We talked about it being Tom and eggs.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-58",
+    "time": "0:05:47",
+    "speaker": "spk_1",
+    "line": "At one point, when I was gonna",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-59",
+    "time": "0:05:49",
+    "speaker": "spk_3",
+    "line": "do with When it was with Jim Florentine. Then it was ex Florentine. Yeah. But the closest sort of breakfast thing",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-60",
+    "time": "0:05:56",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-61",
+    "time": "0:05:56",
+    "speaker": "spk_2",
+    "line": "mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-62",
+    "time": "0:05:56",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-63",
+    "time": "0:05:57",
+    "speaker": "spk_3",
+    "line": "that we have to work with is Tom and eggs.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-64",
+    "time": "0:05:59",
+    "speaker": "spk_1",
+    "line": "Okay. But you, of course, I'm eggs according to you guys. Yes. That's the name you stuck me with.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-65",
+    "time": "0:06:06",
+    "speaker": "spk_3",
+    "line": "Yes. You are eggs. Mhmm. And so in that case,",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-66",
+    "time": "0:06:09",
+    "speaker": "spk_2",
+    "line": "i'm Tom.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-67",
+    "time": "0:06:10",
+    "speaker": "spk_3",
+    "line": "Cody would have to be Tom.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-68",
+    "time": "0:06:13",
+    "speaker": "spk_1",
+    "line": "Well, we I'm look, maybe we find another thing that's like like like something coat eggs like greasy eggs? A different breakfast thing. Greasy eggs.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-69",
+    "time": "0:06:24",
+    "speaker": "spk_2",
+    "line": "Eggs, Benedict? Like, Like Tom and eggs, Benedict?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-70",
+    "time": "0:06:29",
+    "speaker": "spk_3",
+    "line": "I sorta like greasy eggs.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-71",
+    "time": "0:06:31",
+    "speaker": "spk_1",
+    "line": "Greece knows eggs.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-72",
+    "time": "0:06:32",
+    "speaker": "spk_3",
+    "line": "Greece knows eggs. Like, bow nose",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-73",
+    "time": "0:06:35",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-74",
+    "time": "0:06:35",
+    "speaker": "spk_1",
+    "line": "yeah. -- football. Yeah. But it's grease nose.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-75",
+    "time": "0:06:37",
+    "speaker": "spk_3",
+    "line": "But it's grease nose eggs. Yeah. Okay. That's good. Okay. So let's let's let's get right into it with Cody's day, you know, like come off the top with the show title.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-76",
+    "time": "0:06:48",
+    "speaker": "spk_1",
+    "line": "Sure. Okay. Grease nose eggs.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-77",
+    "time": "0:06:50",
+    "speaker": "spk_3",
+    "line": "And then we'll do it again. Okay. Yes. Grease nose eggs. Oh, yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-78",
+    "time": "0:07:00",
+    "speaker": "spk_1",
+    "line": "That sound. You hear that music. You know what time it is. It's time for Greece knows eggs, and I am eggs, Tom Sharpling, here with you. Tonight and always joined by my partner in crime.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-79",
+    "time": "0:07:14",
+    "speaker": "spk_2",
+    "line": "Absolutely.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-80",
+    "time": "0:07:14",
+    "speaker": "spk_1",
+    "line": "A engineer Cody,",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-81",
+    "time": "0:07:16",
+    "speaker": "spk_2",
+    "line": "yeah. Happy to be here.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-82",
+    "time": "0:07:17",
+    "speaker": "spk_1",
+    "line": "But Greecenose is your name on this show. Well, what's up tonight? Greecenose?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-83",
+    "time": "0:07:22",
+    "speaker": "spk_2",
+    "line": "I've just been thinking a lot about Greece being in the name of my my personality. Looks like",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-84",
+    "time": "0:07:30",
+    "speaker": "spk_1",
+    "line": "i not",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-85",
+    "time": "0:07:32",
+    "speaker": "spk_2",
+    "line": "to get too existential or heady kind of in the top of it like this. I mean, before Hayes cuts in, I'm just gonna finish this thought. But why why you guys call me that again?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-86",
+    "time": "0:07:42",
+    "speaker": "spk_1",
+    "line": "Well, I didn't come up with it. But according to Hayes and Sean, you are a guy who goes to the to the to the convenience store, the seven eleven, and you rub your greasy nose on lottery scratch off tickets, and you could see what the winners are because of I guess, the strength of the grease. I didn't come up with it.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-87",
+    "time": "0:08:03",
+    "speaker": "spk_3",
+    "line": "To jump in, this is Hayes. This is Hayes in the studio. I'm shocked that you haven't made the connection between your name being Greasnose and your your ability to produce grease from your nose that you use to survive basically to make all the money you have",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-88",
+    "time": "0:08:23",
+    "speaker": "spk_2",
+    "line": "i mean, I guess that's right. Yeah. That's why, like, that's why scripts is they they came they they tried to acquisition me. As well because I'm Yes.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-89",
+    "time": "0:08:33",
+    "speaker": "spk_3",
+    "line": "This buy yes. The buy yes. Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-90",
+    "time": "0:08:35",
+    "speaker": "spk_2",
+    "line": "By the tickets. The the",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-91",
+    "time": "0:08:36",
+    "speaker": "spk_3",
+    "line": "pull back the curtain. Yes. The buy out of Erewolf and Midroll Media is really an acquisition of your ability to super human",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-92",
+    "time": "0:08:46",
+    "speaker": "spk_1",
+    "line": "do you have a production company, Greece Snow?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-93",
+    "time": "0:08:48",
+    "speaker": "spk_2",
+    "line": "I have a DBA. Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-94",
+    "time": "0:08:51",
+    "speaker": "spk_1",
+    "line": "That's yeah. It's kinda like a production company, but What if you just call it like Grease nose media. Right? Yeah. Grease nose media presents Greece, nose, eggs.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-95",
+    "time": "0:09:07",
+    "speaker": "spk_2",
+    "line": "I could see it sort of. Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-96",
+    "time": "0:09:09",
+    "speaker": "spk_3",
+    "line": "Will you explain what a DBA, you know, we run into this a lot. People not understanding what the terminal.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-97",
+    "time": "0:09:15",
+    "speaker": "spk_2",
+    "line": "It's a shorthand for doing business as",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-98",
+    "time": "0:09:17",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-99",
+    "time": "0:09:17",
+    "speaker": "spk_4",
+    "line": "mhmm. Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-100",
+    "time": "0:09:18",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-101",
+    "time": "0:09:18",
+    "speaker": "spk_2",
+    "line": "so it's like a DBA greaseness or",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-102",
+    "time": "0:09:21",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-103",
+    "time": "0:09:21",
+    "speaker": "spk_2",
+    "line": "okay. -- or Tom.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-104",
+    "time": "0:09:23",
+    "speaker": "spk_1",
+    "line": "So when you went to the bank, you where did you go to the bank and get that?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-105",
+    "time": "0:09:28",
+    "speaker": "spk_2",
+    "line": "Actually, he's legalsim dot com. Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-106",
+    "time": "0:09:33",
+    "speaker": "spk_1",
+    "line": "So",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-107",
+    "time": "0:09:34",
+    "speaker": "spk_2",
+    "line": "how's your day, Tom?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-108",
+    "time": "0:09:34",
+    "speaker": "spk_1",
+    "line": "Oh, it's been pretty good. I've had a fun Los Angeles kinda day.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-109",
+    "time": "0:09:38",
+    "speaker": "spk_3",
+    "line": "This this can we cut this segment? Yeah. I'm sorry.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-110",
+    "time": "0:09:41",
+    "speaker": "spk_1",
+    "line": "Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-111",
+    "time": "0:09:42",
+    "speaker": "spk_3",
+    "line": "One one how's your day segment is good? And then what else what else in terms of because segmentation is important, you know, obviously important in terms of recognizable touchstones. People know I'm going into this segment that I like. Okay. So what else do you guys have anything else? Can I",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-112",
+    "time": "0:10:00",
+    "speaker": "spk_2",
+    "line": "also just say I'm better more at like one word? Kinda I'm not like I can't, like, make sentences that good.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-113",
+    "time": "0:10:07",
+    "speaker": "spk_1",
+    "line": "Uh-huh.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-114",
+    "time": "0:10:07",
+    "speaker": "spk_2",
+    "line": "It's better if you, like, you do a lot of the work, and then I just jump in and say Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-115",
+    "time": "0:10:11",
+    "speaker": "spk_1",
+    "line": "Yeah. Like color commentary.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-116",
+    "time": "0:10:13",
+    "speaker": "spk_2",
+    "line": "Yeah. Yeah. And I could jump in and say yellow or blue or whatever you want.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-117",
+    "time": "0:10:17",
+    "speaker": "spk_1",
+    "line": "Sure. Well, that's not literally color content. You knew it wasn't, but we're just gonna keep moving forward because I want this show. I'm not here to just do this. This is not just some kinda dick around thing. I'm trying to make this count.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-118",
+    "time": "0:10:33",
+    "speaker": "spk_4",
+    "line": "Okay. Sorry.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-119",
+    "time": "0:10:34",
+    "speaker": "spk_1",
+    "line": "So the topic phobias, the topic. And now Greece knows, you suffer from from claustrophobia from what I've heard. Yeah. You don't like those closed spaces. What's it feel like when you're in a closed? Where where Or was it feel like the walls are caving in on you? What's it like?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-120",
+    "time": "0:10:55",
+    "speaker": "spk_2",
+    "line": "Yeah. It's just crushing me.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-121",
+    "time": "0:10:58",
+    "speaker": "spk_1",
+    "line": "Mhmm. Is",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-122",
+    "time": "0:10:59",
+    "speaker": "spk_3",
+    "line": "this a segment? This is a repeated segment? I'm sorry. The the the the segment is phobia is the topic.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-123",
+    "time": "0:11:07",
+    "speaker": "spk_1",
+    "line": "Well, I figured we could get to know each it's the first episode of the show, we get to know each other",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-124",
+    "time": "0:11:12",
+    "speaker": "spk_3",
+    "line": "a little bit better. A segment is like, you you introduce it's like a sort of a game like, you gamify the show and so people can sort",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-125",
+    "time": "0:11:22",
+    "speaker": "spk_4",
+    "line": "of just",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-126",
+    "time": "0:11:22",
+    "speaker": "spk_3",
+    "line": "play along at home and you introduce with, like, a fun",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-127",
+    "time": "0:11:26",
+    "speaker": "spk_1",
+    "line": "so we do a game",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-128",
+    "time": "0:11:28",
+    "speaker": "spk_3",
+    "line": "yeah. Like, you open up the -- Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-129",
+    "time": "0:11:29",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-130",
+    "time": "0:11:29",
+    "speaker": "spk_3",
+    "line": "whatever, you know, like a special box, a funny box of some kind, and the game isn't inside -- Let's do that.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-131",
+    "time": "0:11:35",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-132",
+    "time": "0:11:36",
+    "speaker": "spk_3",
+    "line": "for you to play.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-133",
+    "time": "0:11:37",
+    "speaker": "spk_1",
+    "line": "Alright? We're gonna go to the topic box for tonight and see what's in here and yeah. There it goes. A little",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-134",
+    "time": "0:11:47",
+    "speaker": "spk_3",
+    "line": "you don't have to by the way, I could see you're looking at a real tissue box. You don't have to they they don't No.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-135",
+    "time": "0:11:52",
+    "speaker": "spk_1",
+    "line": "This is the topic box. Yeah. I understand. I understand. For sound",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-136",
+    "time": "0:11:55",
+    "speaker": "spk_3",
+    "line": "but it's it's it's better. Because what if what if you start doing the show and there is no tissue box",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-137",
+    "time": "0:12:01",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-138",
+    "time": "0:12:02",
+    "speaker": "spk_1",
+    "line": "mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-139",
+    "time": "0:12:02",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-140",
+    "time": "0:12:02",
+    "speaker": "spk_3",
+    "line": "there. Could you then not do the top",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-141",
+    "time": "0:12:04",
+    "speaker": "spk_1",
+    "line": "of the box? That's a good problem. That's a good problem. But I'm gonna Not",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-142",
+    "time": "0:12:07",
+    "speaker": "spk_3",
+    "line": "a good problem if the segment is derail because you're because I'm like, fumbling around to find",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-143",
+    "time": "0:12:13",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-144",
+    "time": "0:12:13",
+    "speaker": "spk_1",
+    "line": "well, I wouldn't",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-145",
+    "time": "0:12:14",
+    "speaker": "spk_3",
+    "line": "be -- to hold. Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-146",
+    "time": "0:12:14",
+    "speaker": "spk_1",
+    "line": "I wouldn't be fumbling around.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-147",
+    "time": "0:12:16",
+    "speaker": "spk_3",
+    "line": "Okay. So definitely maneuvering for searching for a box.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-148",
+    "time": "0:12:20",
+    "speaker": "spk_1",
+    "line": "I won't hold an actual box. Alright. Let's go to the topic box. What's in here today? Oh, Fobias. Hey, Greece knows. You got any phobias?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-149",
+    "time": "0:12:32",
+    "speaker": "spk_2",
+    "line": "Let me tell you, brother. Tight spaces? Yeah. Not my friend.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-150",
+    "time": "0:12:37",
+    "speaker": "spk_1",
+    "line": "And what do they call that? Clostrophobia. Yeah. Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-151",
+    "time": "0:12:43",
+    "speaker": "spk_2",
+    "line": "That's the one.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-152",
+    "time": "0:12:43",
+    "speaker": "spk_1",
+    "line": "Yeah. What's that like? It just it feels like the walls that are closing on that, you? Is it like Star Wars when they were in the trash?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-153",
+    "time": "0:12:50",
+    "speaker": "spk_2",
+    "line": "Yeah. Actually, it's That's a",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-154",
+    "time": "0:12:53",
+    "speaker": "spk_1",
+    "line": "remember that?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-155",
+    "time": "0:12:53",
+    "speaker": "spk_2",
+    "line": "That's a beautiful image.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-156",
+    "time": "0:12:55",
+    "speaker": "spk_3",
+    "line": "Yeah. Can I sorry? Can I just jump a podcasting tip? Yeah. When he says claustrophobia, this is you know, Scott Ockerman is like the king of this.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-157",
+    "time": "0:13:04",
+    "speaker": "spk_1",
+    "line": "Of claustrophobia?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-158",
+    "time": "0:13:05",
+    "speaker": "spk_5",
+    "line": "No. Not of claustrophobia.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-159",
+    "time": "0:13:06",
+    "speaker": "spk_3",
+    "line": "Of like, he like, if you said that",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-160",
+    "time": "0:13:08",
+    "speaker": "spk_2",
+    "line": "to Scott -- Mhmm. -- he would Yes, and.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-161",
+    "time": "0:13:11",
+    "speaker": "spk_3",
+    "line": "He would take the clause from Matt -- Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-162",
+    "time": "0:13:13",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-163",
+    "time": "0:13:14",
+    "speaker": "spk_3",
+    "line": "and make a joke about Santa Claus. Like, this is like",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-164",
+    "time": "0:13:17",
+    "speaker": "spk_1",
+    "line": "so you think it's we can just take pages from other shows. Is that what we should be doing?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-165",
+    "time": "0:13:22",
+    "speaker": "spk_3",
+    "line": "I encourage",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-166",
+    "time": "0:13:22",
+    "speaker": "spk_1",
+    "line": "you to",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-167",
+    "time": "0:13:23",
+    "speaker": "spk_3",
+    "line": "do that. Yes.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-168",
+    "time": "0:13:24",
+    "speaker": "spk_1",
+    "line": "Okay. Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-169",
+    "time": "0:13:24",
+    "speaker": "spk_4",
+    "line": "Yes.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-170",
+    "time": "0:13:25",
+    "speaker": "spk_1",
+    "line": "So we're in the topic box right now. What do we got here? Phobias.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-171",
+    "time": "0:13:29",
+    "speaker": "spk_3",
+    "line": "I'm sorry. I didn't hear the the introduction to the topic box. So I don't know I'm in there. Now I know I'm in there.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-172",
+    "time": "0:13:35",
+    "speaker": "spk_1",
+    "line": "Hey, once again, we're gonna take a dip inside the topic box and check it out. And tonight's topic is, well, what's this oh, Fobias. Play the fucking thing.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-173",
+    "time": "0:13:48",
+    "speaker": "spk_6",
+    "line": "Stupid.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-174",
+    "time": "0:13:51",
+    "speaker": "spk_3",
+    "line": "What segment is this what segment is this sound introducing? You I mean, do like, you have to do that. If you play this out, you And",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-175",
+    "time": "0:14:00",
+    "speaker": "spk_1",
+    "line": "i don't wanna curse on the thing there. But I gotta say you pushed me very early to the point where I'm cursing. I I've prided myself on not cursing on my own show that apparently is flawed enough that Hayes and Sean had to tell me what I was doing wrong with that and why I'm doing this now. You got me there really fast. To to to You had one thing to do. Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-176",
+    "time": "0:14:23",
+    "speaker": "spk_3",
+    "line": "Alright. Let me try to to piggyback on your show being flawed, you know, there is no show without Cody and so don't give him a long a long leash,",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-177",
+    "time": "0:14:32",
+    "speaker": "spk_1",
+    "line": "please. I'm sorry? With reasonable reset, I apologize.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-178",
+    "time": "0:14:38",
+    "speaker": "spk_2",
+    "line": "We can edit it.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-179",
+    "time": "0:14:39",
+    "speaker": "spk_1",
+    "line": "Yeah. So we're just all of that is like, will just be deleted. Everything you've heard",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-180",
+    "time": "0:14:43",
+    "speaker": "spk_3",
+    "line": "so far.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-181",
+    "time": "0:14:44",
+    "speaker": "spk_1",
+    "line": "Alright. Hey, everybody. Welcome back to the show, and it's it's the clock on the wall says it's time to go into the topic box. And Very nice. What do we got here? Tonight's topic, phobias, Hey, you got any phobias there, grease nose?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-182",
+    "time": "0:15:04",
+    "speaker": "spk_2",
+    "line": "Yeah. I have Closter phobia.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-183",
+    "time": "0:15:05",
+    "speaker": "spk_1",
+    "line": "Closter phobia, is that a fear of Santa Claus coming down the chimney? What are you scared he's gonna bring you some presents? You can't return? Is that what that is? That's good.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-184",
+    "time": "0:15:15",
+    "speaker": "spk_2",
+    "line": "Is that how you meant it, Hayes? Then he's like,",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-185",
+    "time": "0:15:18",
+    "speaker": "spk_3",
+    "line": "cody You, this is like real just set up for you. Mhmm. This is Tom handing you an opportunity to real to continue on this run.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-186",
+    "time": "0:15:28",
+    "speaker": "spk_2",
+    "line": "I see how like I said, I'm not good at really at that. I'm better more at, you know, couple words, keep it simple kind of thing.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-187",
+    "time": "0:15:36",
+    "speaker": "spk_1",
+    "line": "Okay. So just pulling it back together here, and that goddamn whatever that is, please fix it because it's really bothering me. The topic okay. Clostrophobia. So you got that. So that's not a fear of that's what? Closed to things, not a Santa Claus thing.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-188",
+    "time": "0:16:00",
+    "speaker": "spk_2",
+    "line": "Hell, yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-189",
+    "time": "0:16:01",
+    "speaker": "spk_1",
+    "line": "Uh-huh. Hell, yeah. I'm not sure. You didn't answer the question when you said, hell yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-190",
+    "time": "0:16:08",
+    "speaker": "spk_3",
+    "line": "He is good. Sorry to jump in. This is Hayes He is good at at one or two word he is right about that. That was a very well executed two word answer.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-191",
+    "time": "0:16:19",
+    "speaker": "spk_1",
+    "line": "Alright. So we're going back to is this going well? Where would you how do you think we're doing here?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-192",
+    "time": "0:16:25",
+    "speaker": "spk_3",
+    "line": "I well, we actually need to take a break. Okay. So let's see. How we do with that. This is an important part of the show, and you'll introduce the guest that you have coming up after the break.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-193",
+    "time": "0:16:35",
+    "speaker": "spk_1",
+    "line": "Got a good guest.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-194",
+    "time": "0:16:37",
+    "speaker": "spk_3",
+    "line": "And, you know, keep people tune in for the ads, which is obviously an important part.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-195",
+    "time": "0:16:41",
+    "speaker": "spk_1",
+    "line": "That's",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-196",
+    "time": "0:16:41",
+    "speaker": "spk_2",
+    "line": "the only way we really make money.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-197",
+    "time": "0:16:43",
+    "speaker": "spk_3",
+    "line": "So I'll play you I'll play you into your ad break right now.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-198",
+    "time": "0:16:47",
+    "speaker": "spk_1",
+    "line": "Alright, everybody. We will be back on Greecenose eggs with our special guest, Jesse Thorn. In studio. Let's throw it over to some advertising.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-199",
+    "time": "0:17:01",
+    "speaker": "spk_3",
+    "line": "Don't go over it. Oh, wait.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-200",
+    "time": "0:17:03",
+    "speaker": "spk_1",
+    "line": "Okay. Don't go over the thing and then he",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-201",
+    "time": "0:17:06",
+    "speaker": "spk_3",
+    "line": "when the music's out when you hear out.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-202",
+    "time": "0:17:08",
+    "speaker": "spk_7",
+    "line": "Whoa. Hollywood handbook.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-203",
+    "time": "0:17:11",
+    "speaker": "spk_0",
+    "line": "Hi, kids. It's a new ad that's kind of like one of the other ones I've done. So are you a video game developer like me? Then you need a video game attorney like Ryan Morrison, who's at ryan morrison law dot com. You go there, you get a free consultation and you learn how to protect yourself and your hard work, and that's in real life you do that. You can also do that in my video game, courtroom scramble, where you can play an attorney not named Ryan Morrison. The real Ryan Morrison worked as a game developer and his company and everyone to call their attorney because the phone call was so expensive. He anyway, that stuff sucks and he's doing the cool way. But the other cool thing is I'm now working on this one part of the video game where this guy gets up to a object and you freaking slice him open an axe off the wall of the it's like a legal axe that's in the in the wall of the courtroom. So you've got enough to worry about when it comes to developing your new game and I do too. I'm having trouble with the graphics. Let alone lawyers charging you an arm and a leg for just legal advice. As a result, you'll never be charged for emails, phone calls, or anything like that. When working with Ryan, he keeps this open line of communication with all clients. And that and the lawyer in my game does too, you are open at any time to hit the smash button and he'll smash whoever's nearby and within the head. And all the clients I lost my spot. Okay. So you're free to double and triple check things with him. And since Ryan's worked with every size member of the game industry big to small, I'm assuming, he knows what to watch for no matter where you stand in the game development world whether you're an international success or a national success or you're an indie developer or whether you're like me and you're just kinda telling your dad about ideas you've had and he is not that impressed. Anyway, don't let a fear of lawyers and a feast stand in the way your successful game development. Head to Ryan morrison law dot com and by courtroom scramble when it comes out, and there's gonna be one part I think if I can figure out how to draw And right now, the game is only on pieces of paper mostly, but there's gonna be one part where there's a lady lawyer that you can, like, give a special kiss to. Anyway, the other thing you could do is Google video game attorney to find out more. Bye. Hey, gang. You're probably wondering which ad is this now, and I'm gonna tell you it's a new ad, and I'm doing it for Harry's razors in Shave Club. So one thing you probably don't know is that the Harry from Harry's razors is actually Harry from Harry and the Henderson's. It's the same guy, but you'd never recognize him because when I saw him now to do the deal for these ads, he is shaven, and that's very impressive. Because if you've seen the film, he's a huge hairy guy and you'd think no one can shave that. But only these razors can and they did it. Normally, shaving is a pain. It's uncomfortable. A razor burn. There's nicks, and it's that's expensive. But now It feels good, and it's cheap because of these guys. It's half the price of other big brand blades, and they ship for Frittia doorstep. And they're better they're made in Germany, and it's fun. And and so so Harry from the Henderson's is there. He's big guy, kind of a weird guy, but he's a shaved guy now and he can go to the store and he can buy whatever. Basically, everything except razor blades. And you're paying thirty two dollars for an eight pack, well, it's not that much. It's sixteen. It's half the price and you get better shave and The starter sets an amazing deal for fifteen dollars. You get the razor, the moisturizer, and shave cream, three razor blades, and use the promo code handbook. That's five dollars off that. Then that's ten total or something? I mean, honestly, you'd have to talk to Harry himself about the details, which is hard. He's got a weird voice thing kind where you're like, you know. But it's shipped to your door and the quality of the shave and the look and feel the product. It's all great. So go to harry's dot com now, and Harry from Harry and The Henderson's will give you five dollars off if you type in the coupon code handbook with your first purchase. First first first purchase. Now I'm talking like him. You have first purchase. That's harry's dot com and enter coupon code handbook at checkout for five dollars and start shaving better today. Hollywood handbook. Oh, yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-204",
+    "time": "0:21:43",
+    "speaker": "spk_1",
+    "line": "Sweet sounds. Sweet sounds. Sweet sounds here on Greecenose eggs. Mom Tom eggs, sharpling here, and joined as always by my partner in crime. Engineer Cody, otherwise known as Grease Snow. Grease Snow.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-205",
+    "time": "0:21:59",
+    "speaker": "spk_2",
+    "line": "And the engineer, lead engineer on Tom's eggs show. Just like Mama used to make them. You know what I mean?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-206",
+    "time": "0:22:06",
+    "speaker": "spk_1",
+    "line": "Okay? We got a guest in studio. This guy is when you talk about podcasting, he is He's one of the if there's if there's a Mount Rushmore of podcasting, his face goes up there right next to Carl Pilkington and",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-207",
+    "time": "0:22:24",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-208",
+    "time": "0:22:25",
+    "speaker": "spk_4",
+    "line": "gramer Girl.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-209",
+    "time": "0:22:25",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-210",
+    "time": "0:22:26",
+    "speaker": "spk_1",
+    "line": "and Gramer Girl. Please welcome to the show. We got the one and only Jesse Thorn. Thanks for coming by, Jesse.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-211",
+    "time": "0:22:34",
+    "speaker": "spk_4",
+    "line": "Thank you so much for having me. Thank you. Trying to step",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-212",
+    "time": "0:22:37",
+    "speaker": "spk_1",
+    "line": "on the",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-213",
+    "time": "0:22:38",
+    "speaker": "spk_2",
+    "line": "yeah. Sorry.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-214",
+    "time": "0:22:39",
+    "speaker": "spk_3",
+    "line": "Could you guys And can I say, Tom, please don't reprimand Cody and Well you're reprimanding me right now? Just do it do it quietly because we want the",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-215",
+    "time": "0:22:49",
+    "speaker": "spk_1",
+    "line": "you know?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-216",
+    "time": "0:22:49",
+    "speaker": "spk_2",
+    "line": "To sail out with your",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-217",
+    "time": "0:22:50",
+    "speaker": "spk_3",
+    "line": "eyes, Tom. Just be gentle. Yes. Do it with Last",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-218",
+    "time": "0:22:52",
+    "speaker": "spk_1",
+    "line": "time you couldn't see me when I felt we had something going on.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-219",
+    "time": "0:22:54",
+    "speaker": "spk_2",
+    "line": "Now, I can't see Jesse.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-220",
+    "time": "0:22:56",
+    "speaker": "spk_1",
+    "line": "Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-221",
+    "time": "0:22:56",
+    "speaker": "spk_3",
+    "line": "And okay. So I'd and I the other note is Jesse runs a very successful -- Mhmm. -- podcast company.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-222",
+    "time": "0:23:04",
+    "speaker": "spk_1",
+    "line": "Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-223",
+    "time": "0:23:04",
+    "speaker": "spk_3",
+    "line": "Their obviously could be an opportunity there. There could be a home for",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-224",
+    "time": "0:23:08",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-225",
+    "time": "0:23:08",
+    "speaker": "spk_1",
+    "line": "for for the show.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-226",
+    "time": "0:23:09",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-227",
+    "time": "0:23:09",
+    "speaker": "spk_3",
+    "line": "for Greece Snow's eggs. Yeah. But I don't want it to sound like you're begging",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-228",
+    "time": "0:23:15",
+    "speaker": "spk_1",
+    "line": "the",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-229",
+    "time": "0:23:15",
+    "speaker": "spk_3",
+    "line": "introduction of Jesse was a little meatier. Like a the Slavish -- Okay. -- almost.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-230",
+    "time": "0:23:25",
+    "speaker": "spk_1",
+    "line": "Okay. Let's start over.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-231",
+    "time": "0:23:27",
+    "speaker": "spk_3",
+    "line": "And so just to do it in a normal way, like, it's just a casual discussion between friends. Hundred percent -- And not like you're",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-232",
+    "time": "0:23:33",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-233",
+    "time": "0:23:33",
+    "speaker": "spk_1",
+    "line": "hundred percent gushing",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-234",
+    "time": "0:23:34",
+    "speaker": "spk_3",
+    "line": "for a",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-235",
+    "time": "0:23:35",
+    "speaker": "spk_1",
+    "line": "hundred percent. Gotcha. Let's do it.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-236",
+    "time": "0:23:36",
+    "speaker": "spk_4",
+    "line": "Are we going back to the",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-237",
+    "time": "0:23:38",
+    "speaker": "spk_1",
+    "line": "back to the theme?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-238",
+    "time": "0:23:39",
+    "speaker": "spk_3",
+    "line": "Let's just go back to the introduction. Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-239",
+    "time": "0:23:41",
+    "speaker": "spk_4",
+    "line": "Yeah. I do like the theme. What is that flow rider featuring David Guetta?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-240",
+    "time": "0:23:45",
+    "speaker": "spk_3",
+    "line": "Don't look at Tom. Tom doesn't It is. Yes.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-241",
+    "time": "0:23:50",
+    "speaker": "spk_1",
+    "line": "This is",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-242",
+    "time": "0:23:50",
+    "speaker": "spk_4",
+    "line": "one of my favorite songs. Yes.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-243",
+    "time": "0:23:52",
+    "speaker": "spk_1",
+    "line": "We are joined in studio by the by Jesse Thorn. You might know him over at maximum fun dot org, host of bullseye with Jesse Thorn and Jordan Jesse Go. Jordan Jesse or Jesse Jordan?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-244",
+    "time": "0:24:07",
+    "speaker": "spk_4",
+    "line": "Jordan Jesse Go. Jordan Jesse Go.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-245",
+    "time": "0:24:08",
+    "speaker": "spk_1",
+    "line": "Jordan Jesse. Thanks for coming by the show. Jesse.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-246",
+    "time": "0:24:13",
+    "speaker": "spk_4",
+    "line": "I'm glad to be here, Tom. Thank you so much for having me. And thank you for having me, Cody.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-247",
+    "time": "0:24:18",
+    "speaker": "spk_2",
+    "line": "Thank you. Engineer Cody? Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-248",
+    "time": "0:24:21",
+    "speaker": "spk_4",
+    "line": "Greece knows.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-249",
+    "time": "0:24:23",
+    "speaker": "spk_1",
+    "line": "Greas. Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-250",
+    "time": "0:24:24",
+    "speaker": "spk_2",
+    "line": "Yes. Well, you're welcome and thank you for coming. Coming by.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-251",
+    "time": "0:24:28",
+    "speaker": "spk_3",
+    "line": "This might be a good place for the topic box -- Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-252",
+    "time": "0:24:31",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-253",
+    "time": "0:24:31",
+    "speaker": "spk_3",
+    "line": "to emerge. When you feel it sort of cooling down like that -- Mhmm. -- make a grab. Should we give any context? Not not a literal grab.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-254",
+    "time": "0:24:38",
+    "speaker": "spk_1",
+    "line": "Do I need to give any context to who Jesse is, though? For like like some kind of like, you do your like tell us about your show.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-255",
+    "time": "0:24:48",
+    "speaker": "spk_3",
+    "line": "Jesse, does that sound interesting? I mean, you do. I'm pretty well known. Yeah. It's it's almost insulting.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-256",
+    "time": "0:24:55",
+    "speaker": "spk_4",
+    "line": "This is gonna be podcast. Right?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-257",
+    "time": "0:24:56",
+    "speaker": "spk_3",
+    "line": "Yeah. This is kinda funny.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-258",
+    "time": "0:24:57",
+    "speaker": "spk_4",
+    "line": "So I think in the podcasting community, I'm pretty well known.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-259",
+    "time": "0:24:59",
+    "speaker": "spk_1",
+    "line": "Okay. A",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-260",
+    "time": "0:25:00",
+    "speaker": "spk_4",
+    "line": "reputation precedes me. So I I don't think we need that much content.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-261",
+    "time": "0:25:04",
+    "speaker": "spk_1",
+    "line": "Okay. I",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-262",
+    "time": "0:25:05",
+    "speaker": "spk_4",
+    "line": "mean, a little bit of context if you want to.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-263",
+    "time": "0:25:07",
+    "speaker": "spk_1",
+    "line": "Fair enough. Okay. In studio, we've got Jesse Thorn, the host of bullseye with Jesse Thorn and Jordan Jesse Go. You can find both of those over at maximum fund dot org. And welcome to the show, Jesse.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-264",
+    "time": "0:25:24",
+    "speaker": "spk_4",
+    "line": "Thank you so much for having me, Tom.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-265",
+    "time": "0:25:25",
+    "speaker": "spk_1",
+    "line": "Good to see you. Should we go to the topic box now? Or did I go too quickly?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-266",
+    "time": "0:25:29",
+    "speaker": "spk_3",
+    "line": "No. That was perfect. I would have said even a little bit soon.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-267",
+    "time": "0:25:32",
+    "speaker": "spk_1",
+    "line": "Jesse, that sound is telling me not sure why taking you that When",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-268",
+    "time": "0:25:39",
+    "speaker": "spk_3",
+    "line": "you do the so when you when you point to Cody",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-269",
+    "time": "0:25:42",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-270",
+    "time": "0:25:42",
+    "speaker": "spk_3",
+    "line": "yeah. -- do it ninety seconds before you want the sound -- Okay. -- to be me.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-271",
+    "time": "0:25:47",
+    "speaker": "spk_1",
+    "line": "Is he the engineer that watches television in here? Which one is that? The watches Vice News.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-272",
+    "time": "0:25:53",
+    "speaker": "spk_3",
+    "line": "Watch I mean, he watched Vice News once during a show. It's not like he",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-273",
+    "time": "0:25:57",
+    "speaker": "spk_1",
+    "line": "he's you know what he's doing right now? I can only",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-274",
+    "time": "0:25:59",
+    "speaker": "spk_3",
+    "line": "watch his vice news as one time.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-275",
+    "time": "0:26:01",
+    "speaker": "spk_1",
+    "line": "Do you know what's going on right now? He's emptying the trash on that computer, and it is about fifteen percent of the way there, it's gonna take three hours for that pandemic.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-276",
+    "time": "0:26:12",
+    "speaker": "spk_3",
+    "line": "Good because that means that there Cody, I assume, that there was something very incriminating in the trash that you had to get rid of. So that's it's",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-277",
+    "time": "0:26:20",
+    "speaker": "spk_2",
+    "line": "probably something like that. I just I like to get a little housekeeping done sort of while I'm hosting.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-278",
+    "time": "0:26:26",
+    "speaker": "spk_3",
+    "line": "And that renders your computer unable to",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-279",
+    "time": "0:26:29",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-280",
+    "time": "0:26:29",
+    "speaker": "spk_4",
+    "line": "yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-281",
+    "time": "0:26:29",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-282",
+    "time": "0:26:29",
+    "speaker": "spk_3",
+    "line": "produce any other sounds.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-283",
+    "time": "0:26:31",
+    "speaker": "spk_1",
+    "line": "That way, we get that cool.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-284",
+    "time": "0:26:32",
+    "speaker": "spk_2",
+    "line": "Still recording. That's good.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-285",
+    "time": "0:26:33",
+    "speaker": "spk_1",
+    "line": "We get that cool.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-286",
+    "time": "0:26:35",
+    "speaker": "spk_4",
+    "line": "That is good, Cody. Good work.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-287",
+    "time": "0:26:36",
+    "speaker": "spk_2",
+    "line": "Thanks. Here",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-288",
+    "time": "0:26:37",
+    "speaker": "spk_1",
+    "line": "we go. There we go. And that sound means it's time to go to the topic.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-289",
+    "time": "0:26:42",
+    "speaker": "spk_4",
+    "line": "I'm sorry to interrupt. I have a question.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-290",
+    "time": "0:26:44",
+    "speaker": "spk_1",
+    "line": "Okay?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-291",
+    "time": "0:26:44",
+    "speaker": "spk_4",
+    "line": "Do you guys have any kleenex?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-292",
+    "time": "0:26:47",
+    "speaker": "spk_1",
+    "line": "We do, actually. Here's This is independent of the topic box, Jesse.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-293",
+    "time": "0:26:51",
+    "speaker": "spk_4",
+    "line": "Thank you so much.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-294",
+    "time": "0:26:52",
+    "speaker": "spk_1",
+    "line": "It's a box of Kleenex, which I was initially using as the topic box, and then Hayes reprimarily.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-295",
+    "time": "0:26:59",
+    "speaker": "spk_3",
+    "line": "Well, see Jesse knows what to do. He's using he's creating a soundscape. So that was the sound of removing a kleenex from the box. You silently gripping it. If you if you wanna hold up a box, say, oh, here, you walk it over to the mic so that people can can hear.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-296",
+    "time": "0:27:14",
+    "speaker": "spk_1",
+    "line": "Is that also use",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-297",
+    "time": "0:27:15",
+    "speaker": "spk_4",
+    "line": "if you have a big sheet of aluminum -- Mhmm. -- or metal, you can shake that.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-298",
+    "time": "0:27:19",
+    "speaker": "spk_1",
+    "line": "Okay. Mhmm. As if that's, like, as if that's a",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-299",
+    "time": "0:27:21",
+    "speaker": "spk_3",
+    "line": "scary thunder.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-300",
+    "time": "0:27:22",
+    "speaker": "spk_1",
+    "line": "Okay. Or or for thunder. Like,",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-301",
+    "time": "0:27:25",
+    "speaker": "spk_2",
+    "line": "it's a",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-302",
+    "time": "0:27:25",
+    "speaker": "spk_1",
+    "line": "rainy night in Los Angeles, and we're gonna go to Greece, nose, eggs",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-303",
+    "time": "0:27:31",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-304",
+    "time": "0:27:32",
+    "speaker": "spk_1",
+    "line": "mhmm. -- stories of terror.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-305",
+    "time": "0:27:33",
+    "speaker": "spk_4",
+    "line": "And",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-306",
+    "time": "0:27:34",
+    "speaker": "spk_3",
+    "line": "again, you don't have to mime shaking, but",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-307",
+    "time": "0:27:36",
+    "speaker": "spk_1",
+    "line": "pump, crap. Fair enough, I did it. You're right. I was",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-308",
+    "time": "0:27:39",
+    "speaker": "spk_2",
+    "line": "i actually didn't mind. I'm shaking. It felt that you were getting into it more, you know, like the energy of the rooms.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-309",
+    "time": "0:27:45",
+    "speaker": "spk_3",
+    "line": "See, he's being very generous with you.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-310",
+    "time": "0:27:46",
+    "speaker": "spk_1",
+    "line": "Well, that's what my partner",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-311",
+    "time": "0:27:48",
+    "speaker": "spk_3",
+    "line": "does Yes. That would be nice.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-312",
+    "time": "0:27:51",
+    "speaker": "spk_1",
+    "line": "That sound pointing the sound we're gonna hear in ninety seconds.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-313",
+    "time": "0:27:56",
+    "speaker": "spk_4",
+    "line": "Are you ready, mom?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-314",
+    "time": "0:27:58",
+    "speaker": "spk_1",
+    "line": "Okay. I don't know what that was. What was that? What was that?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-315",
+    "time": "0:28:03",
+    "speaker": "spk_4",
+    "line": "It's a James Taylor Live album.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-316",
+    "time": "0:28:04",
+    "speaker": "spk_2",
+    "line": "It's an audio file called sequence one",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-317",
+    "time": "0:28:08",
+    "speaker": "spk_1",
+    "line": "sequence one.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-318",
+    "time": "0:28:12",
+    "speaker": "spk_2",
+    "line": "Which made sense.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-319",
+    "time": "0:28:14",
+    "speaker": "spk_1",
+    "line": "Well, that sound held",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-320",
+    "time": "0:28:15",
+    "speaker": "spk_2",
+    "line": "moment because it's the first sequence. Maybe? Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-321",
+    "time": "0:28:19",
+    "speaker": "spk_4",
+    "line": "Can't see where you",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-322",
+    "time": "0:28:19",
+    "speaker": "spk_1",
+    "line": "let's go to the topic box, please. There we go. Jesse Thorn, welcome to Greasnose eggs and time to go to that old topic box and see what's going on in here. Well, what do we got here? Fobias is the topic tonight. And Jesse, You got any phobias you suffer from anything?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-323",
+    "time": "0:28:39",
+    "speaker": "spk_2",
+    "line": "She's scared of it.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-324",
+    "time": "0:28:40",
+    "speaker": "spk_4",
+    "line": "Tom, I don't like like infinity. I don't like the idea. I don't like to go to the beach and look out over the water. I don't like to go to I don't like to think about space -- Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-325",
+    "time": "0:28:53",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-326",
+    "time": "0:28:54",
+    "speaker": "spk_5",
+    "line": "cars like the car.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-327",
+    "time": "0:28:55",
+    "speaker": "spk_1",
+    "line": "We'll get you there, the the No,",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-328",
+    "time": "0:28:57",
+    "speaker": "spk_4",
+    "line": "i like the car.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-329",
+    "time": "0:28:58",
+    "speaker": "spk_3",
+    "line": "I tried to generous. There's a core quietly give you a note. When he says, like, Infinity",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-330",
+    "time": "0:29:02",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-331",
+    "time": "0:29:03",
+    "speaker": "spk_1",
+    "line": "mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-332",
+    "time": "0:29:03",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-333",
+    "time": "0:29:03",
+    "speaker": "spk_3",
+    "line": "you misinterpret that that he's talking about the brand of car.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-334",
+    "time": "0:29:06",
+    "speaker": "spk_1",
+    "line": "Let's do that. So, Jesse, what kind of phobias might you have? Spiders. Spiders. Okay. Like, Spider Man, is that what you're scared of? Like, you're scared of",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-335",
+    "time": "0:29:16",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-336",
+    "time": "0:29:17",
+    "speaker": "spk_2",
+    "line": "or the spider cars.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-337",
+    "time": "0:29:17",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-338",
+    "time": "0:29:18",
+    "speaker": "spk_1",
+    "line": "what are you, Jay Jonah Jamieson. You're scared of Spider Man's gonna come in here and show you",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-339",
+    "time": "0:29:22",
+    "speaker": "spk_5",
+    "line": "up again.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-340",
+    "time": "0:29:22",
+    "speaker": "spk_3",
+    "line": "This is good.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-341",
+    "time": "0:29:23",
+    "speaker": "spk_1",
+    "line": "But yet you always hire room to take pictures of Peter Parker to take pictures of Spider Man. It's a two way street. I'm not",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-342",
+    "time": "0:29:29",
+    "speaker": "spk_5",
+    "line": "it's not really a two way street.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-343",
+    "time": "0:29:31",
+    "speaker": "spk_3",
+    "line": "He does not know that",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-344",
+    "time": "0:29:32",
+    "speaker": "spk_5",
+    "line": "peter marker as Spider Man.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-345",
+    "time": "0:29:33",
+    "speaker": "spk_1",
+    "line": "No. No. But I'm saying for Jay Jones Jamieson.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-346",
+    "time": "0:29:36",
+    "speaker": "spk_3",
+    "line": "Them to take pictures of Spider Man. He's fascinated by the very bad terror",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-347",
+    "time": "0:29:39",
+    "speaker": "spk_1",
+    "line": "of Python. Yes. Thank you, Jesse. He hates the guy, but he met?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-348",
+    "time": "0:29:44",
+    "speaker": "spk_2",
+    "line": "Really. Apologies. Sorry. That was unintentional.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-349",
+    "time": "0:29:49",
+    "speaker": "spk_1",
+    "line": "So other ones have been intentional.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-350",
+    "time": "0:29:51",
+    "speaker": "spk_3",
+    "line": "You had full control to this point?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-351",
+    "time": "0:29:55",
+    "speaker": "spk_1",
+    "line": "Yeah. Yeah. So you're scared of spiders. Spider. Right?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-352",
+    "time": "0:30:02",
+    "speaker": "spk_4",
+    "line": "Yeah, spiders and infinity.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-353",
+    "time": "0:30:03",
+    "speaker": "spk_1",
+    "line": "Mhmm. So you'd be what would you be scared of Spider driving in Infinity? What would you see if you looked and you saw coming down the street and infinity? And you're like, wait, there's nobody behind the wheel on that. And then you And there's",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-354",
+    "time": "0:30:17",
+    "speaker": "spk_3",
+    "line": "a I look",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-355",
+    "time": "0:30:17",
+    "speaker": "spk_4",
+    "line": "very closely.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-356",
+    "time": "0:30:18",
+    "speaker": "spk_1",
+    "line": "And there's a spider",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-357",
+    "time": "0:30:19",
+    "speaker": "spk_4",
+    "line": "just Is it a big spider or a small spider?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-358",
+    "time": "0:30:22",
+    "speaker": "spk_1",
+    "line": "Could be a big spider. Could be a bunch of spiders teaming up to drive a car. Right? Maybe forming the shape of a human that many spiders?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-359",
+    "time": "0:30:30",
+    "speaker": "spk_4",
+    "line": "What How we doing?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-360",
+    "time": "0:30:31",
+    "speaker": "spk_3",
+    "line": "This is great. This is a riff. You have engaged in a riff. Funny hypothetical scenarios like this play extremely well. You're giving Cody very little to do. That sounds",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-361",
+    "time": "0:30:44",
+    "speaker": "spk_1",
+    "line": "is that a good thing that I'm giving him little to do?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-362",
+    "time": "0:30:46",
+    "speaker": "spk_3",
+    "line": "No. I I",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-363",
+    "time": "0:30:48",
+    "speaker": "spk_1",
+    "line": "he's brought everything to a halt.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-364",
+    "time": "0:30:49",
+    "speaker": "spk_3",
+    "line": "It's actually a very it's a very bad thing because as we know, there is no show.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-365",
+    "time": "0:30:54",
+    "speaker": "spk_4",
+    "line": "Please can I offer So just to Cody, Cody, I know that you're a man of few words, but I'm just gonna pitch you a concept? It's like the spiders form the shape of a man driving a car. What if there's more spiders forming the shape of a second man so they can use the carpool lane.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-366",
+    "time": "0:31:12",
+    "speaker": "spk_1",
+    "line": "That's what you should have said, Cody.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-367",
+    "time": "0:31:14",
+    "speaker": "spk_4",
+    "line": "You still you still can say it.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-368",
+    "time": "0:31:16",
+    "speaker": "spk_5",
+    "line": "Here we go. That's yes.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-369",
+    "time": "0:31:17",
+    "speaker": "spk_2",
+    "line": "Okay. So",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-370",
+    "time": "0:31:17",
+    "speaker": "spk_4",
+    "line": "this is gonna be fun, Cody.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-371",
+    "time": "0:31:19",
+    "speaker": "spk_1",
+    "line": "Pulling open the that that sound tells me it's the topic box, time for the topic box, then share that fucking sound again? You fucking idiot. You couldn't? You couldn't stop emptying the trash on that goddamn computer, which is why you're getting that sound. And you don't know. Is this the first time you ever worked with a computer? You're just like God. I I God damn it. No. There is. That's the topic box. And what's in the topic? And I well, it looks like we got phobias is in the box. And Jesse Thorn, what kind of phobias might you suffer from?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-372",
+    "time": "0:32:05",
+    "speaker": "spk_4",
+    "line": "Spiders. Spiders.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-373",
+    "time": "0:32:06",
+    "speaker": "spk_2",
+    "line": "A little bit of arachnophobia.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-374",
+    "time": "0:32:08",
+    "speaker": "spk_1",
+    "line": "Arach, that's what that is called, Greece knows. And so you're scared of what, like, Spider Man?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-375",
+    "time": "0:32:15",
+    "speaker": "spk_4",
+    "line": "No. Not Spider Man, Tom.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-376",
+    "time": "0:32:16",
+    "speaker": "spk_1",
+    "line": "Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-377",
+    "time": "0:32:17",
+    "speaker": "spk_3",
+    "line": "This is sorry. This is not going as well as it did -- Before. -- the first time.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-378",
+    "time": "0:32:23",
+    "speaker": "spk_1",
+    "line": "No. It's not.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-379",
+    "time": "0:32:25",
+    "speaker": "spk_2",
+    "line": "Tom, you seem a little distressed, like",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-380",
+    "time": "0:32:27",
+    "speaker": "spk_3",
+    "line": "it's not as natural.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-381",
+    "time": "0:32:29",
+    "speaker": "spk_4",
+    "line": "Yeah. Are you okay, Tom?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-382",
+    "time": "0:32:30",
+    "speaker": "spk_1",
+    "line": "I'm trying to hold it together because this cohost of mine that you are I'm gonna flip your",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-383",
+    "time": "0:32:42",
+    "speaker": "spk_3",
+    "line": "tom, a couple it is Cody's birthday on Monday.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-384",
+    "time": "0:32:46",
+    "speaker": "spk_2",
+    "line": "That's true. Yeah. I didn't wanna bring",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-385",
+    "time": "0:32:48",
+    "speaker": "spk_1",
+    "line": "it up. Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-386",
+    "time": "0:32:49",
+    "speaker": "spk_3",
+    "line": "So this so why I bring that up is -- Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-387",
+    "time": "0:32:52",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-388",
+    "time": "0:32:52",
+    "speaker": "spk_3",
+    "line": "from the beginning, it would have been nice if this were my birthday. A Cody. A Cody's birthday",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-389",
+    "time": "0:32:58",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-390",
+    "time": "0:32:58",
+    "speaker": "spk_1",
+    "line": "okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-391",
+    "time": "0:32:59",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-392",
+    "time": "0:32:59",
+    "speaker": "spk_3",
+    "line": "episode of the show.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-393",
+    "time": "0:33:00",
+    "speaker": "spk_1",
+    "line": "Great note. That sound tells me it's the topic box and what's in the topic box tonight? It's birthday, birthdays. Anyone have a birthday coming up in the room? Yeah. Who's got a birthday coming up?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-394",
+    "time": "0:33:15",
+    "speaker": "spk_0",
+    "line": "Just a little",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-395",
+    "time": "0:33:16",
+    "speaker": "spk_2",
+    "line": "old me.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-396",
+    "time": "0:33:16",
+    "speaker": "spk_1",
+    "line": "Little old old grease nose got a birthday coming up. When's your birthday grease nose?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-397",
+    "time": "0:33:22",
+    "speaker": "spk_2",
+    "line": "Monday.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-398",
+    "time": "0:33:23",
+    "speaker": "spk_1",
+    "line": "Monday. Monday. So Monday is your birthday. And",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-399",
+    "time": "0:33:26",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-400",
+    "time": "0:33:26",
+    "speaker": "spk_2",
+    "line": "seven -- what",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-401",
+    "time": "0:33:27",
+    "speaker": "spk_1",
+    "line": "kind of birthday? Well, birthday. What kind of birthday plans you got?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-402",
+    "time": "0:33:30",
+    "speaker": "spk_2",
+    "line": "I think I'm gonna go go camping.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-403",
+    "time": "0:33:32",
+    "speaker": "spk_1",
+    "line": "Camping for your birthday. So what are you gonna eat? A cake out of bark?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-404",
+    "time": "0:33:37",
+    "speaker": "spk_3",
+    "line": "Never one if I could consider that's great. That's very funny. Yes. You have a guest in the room?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-405",
+    "time": "0:33:42",
+    "speaker": "spk_1",
+    "line": "I was gonna loop him in on this.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-406",
+    "time": "0:33:44",
+    "speaker": "spk_4",
+    "line": "It's not my birthday.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-407",
+    "time": "0:33:46",
+    "speaker": "spk_3",
+    "line": "I understand, but you that looping in the guest to celebrate Cody's birthday as well, I think that's -- That's",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-408",
+    "time": "0:33:51",
+    "speaker": "spk_2",
+    "line": "a great idea.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-409",
+    "time": "0:33:52",
+    "speaker": "spk_3",
+    "line": "Tom is your birthday?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-410",
+    "time": "0:33:54",
+    "speaker": "spk_1",
+    "line": "It is not.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-411",
+    "time": "0:33:55",
+    "speaker": "spk_4",
+    "line": "So shouldn't Cody just do this segment?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-412",
+    "time": "0:33:58",
+    "speaker": "spk_2",
+    "line": "Yeah. What are we? Tom?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-413",
+    "time": "0:34:00",
+    "speaker": "spk_1",
+    "line": "I don't talk about that on the air. So anyway, let's go back to the topic box and it's birthdays. Who in the room? I know someone who has special little boy who has a birthday coming up this Monday. It's my old partner Greesnows has a birthday coming up.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-414",
+    "time": "0:34:17",
+    "speaker": "spk_3",
+    "line": "Happy birthday,",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-415",
+    "time": "0:34:19",
+    "speaker": "spk_4",
+    "line": "grease Snow.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-416",
+    "time": "0:34:20",
+    "speaker": "spk_2",
+    "line": "Thanks, guys.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-417",
+    "time": "0:34:21",
+    "speaker": "spk_1",
+    "line": "So Grease knows, what are you gonna do for that birthday? How are you gonna celebrate it?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-418",
+    "time": "0:34:24",
+    "speaker": "spk_2",
+    "line": "I've been thinking a lot about that.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-419",
+    "time": "0:34:26",
+    "speaker": "spk_1",
+    "line": "I've had about a year since my life. Just tell us",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-420",
+    "time": "0:34:30",
+    "speaker": "spk_2",
+    "line": "to think on it. Yeah. And I'm gonna go camping.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-421",
+    "time": "0:34:33",
+    "speaker": "spk_1",
+    "line": "Gonna go camping. Campy. So you're gonna go, can you bring a cake with you?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-422",
+    "time": "0:34:37",
+    "speaker": "spk_2",
+    "line": "Probably not. No.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-423",
+    "time": "0:34:38",
+    "speaker": "spk_1",
+    "line": "No? What are you gonna make? Like candles, we're gonna light Campfire. Is that gonna be your your cake?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-424",
+    "time": "0:34:45",
+    "speaker": "spk_3",
+    "line": "I don't have anything for this. I don't think you're gonna be That was very close. You would say, like, something along the lines of you're gonna blow out a campfire? Yeah. Yes. That's right.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-425",
+    "time": "0:34:53",
+    "speaker": "spk_1",
+    "line": "You're gonna blow out",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-426",
+    "time": "0:34:54",
+    "speaker": "spk_3",
+    "line": "a campfire being a cake was the that was a strange direction.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-427",
+    "time": "0:34:58",
+    "speaker": "spk_2",
+    "line": "And I keep wanting to get the spiders back into",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-428",
+    "time": "0:35:00",
+    "speaker": "spk_1",
+    "line": "okay. Well, we'll we'll get him back in work. We'll get him back. Yes.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-429",
+    "time": "0:35:03",
+    "speaker": "spk_3",
+    "line": "Let's play that Cody Stranks. Okay. He has something in the chamber -- Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-430",
+    "time": "0:35:08",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-431",
+    "time": "0:35:08",
+    "speaker": "spk_3",
+    "line": "for Spider. He's got something",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-432",
+    "time": "0:35:10",
+    "speaker": "spk_4",
+    "line": "i bet Cody what Cody has. We bring up spiders. I think Cody's gonna hit home run.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-433",
+    "time": "0:35:14",
+    "speaker": "spk_3",
+    "line": "Yes.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-434",
+    "time": "0:35:15",
+    "speaker": "spk_4",
+    "line": "I don't think there's any chance that if we bring up spiders",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-435",
+    "time": "0:35:18",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-436",
+    "time": "0:35:19",
+    "speaker": "spk_1",
+    "line": "mhmm. Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-437",
+    "time": "0:35:21",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-438",
+    "time": "0:35:21",
+    "speaker": "spk_4",
+    "line": "it's gonna be anything less than unqualified success.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-439",
+    "time": "0:35:26",
+    "speaker": "spk_3",
+    "line": "Because he specific he stopped the show to request a topic change Yeah. Meaning that there there there there there must",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-440",
+    "time": "0:35:35",
+    "speaker": "spk_1",
+    "line": "be And that sound, if you don't fix it, I'm telling you, I'm not joking anymore. This is not for comedy anymore. I'm actually mad now at that thing. I'm gonna break your laptop. And I'm telling you this, when this spider thing comes your way, if you blow it, it's gonna be bad. We're gonna clear out a path for you and you're a man of few words, but I'm telling you, when when it's that moment for you, you better hit it. I will. Okay?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-441",
+    "time": "0:36:10",
+    "speaker": "spk_4",
+    "line": "Cody, can I say something?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-442",
+    "time": "0:36:11",
+    "speaker": "spk_2",
+    "line": "You're wonderful too.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-443",
+    "time": "0:36:12",
+    "speaker": "spk_4",
+    "line": "Yeah. Cody, I just want you to know that I really believe in you. I'm really excited about what you're about to do. And I can see in your eyes that this joke's gonna be ten out of ten. And I honestly Haze, I don't know if this is something that's appropriate to talk about the Shave. I've had a tough couple of weeks. Before I came here, I got in a pretty big fight with my wife. And and I lost some people that were close to me in an accident. And I think that your spider joke I just I think that it might be what I need to hear right now. And I'm so grateful to you for volunteering What I'm sure is, you know, something very close to the heart of you, probably the greatest creative work of which you're capable. Volunteering to share it with me here in a time when I really need",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-444",
+    "time": "0:37:18",
+    "speaker": "spk_1",
+    "line": "it. Great.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-445",
+    "time": "0:37:19",
+    "speaker": "spk_4",
+    "line": "Thanks, Jeff. Thank you. Go ahead.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-446",
+    "time": "0:37:21",
+    "speaker": "spk_1",
+    "line": "Thank you for that. I appreciate it. I got a little",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-447",
+    "time": "0:37:24",
+    "speaker": "spk_4",
+    "line": "he was I mean, he looked I just wanted him to know that I -- Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-448",
+    "time": "0:37:28",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-449",
+    "time": "0:37:28",
+    "speaker": "spk_4",
+    "line": "i guess I",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-450",
+    "time": "0:37:31",
+    "speaker": "spk_2",
+    "line": "you can be frank.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-451",
+    "time": "0:37:32",
+    "speaker": "spk_4",
+    "line": "In so many words, I love you.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-452",
+    "time": "0:37:35",
+    "speaker": "spk_1",
+    "line": "Well, that's nice. Continue, Tom.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-453",
+    "time": "0:37:36",
+    "speaker": "spk_3",
+    "line": "And he looks like he's continuing to think very hard -- Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-454",
+    "time": "0:37:41",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-455",
+    "time": "0:37:41",
+    "speaker": "spk_3",
+    "line": "which I think is a good sign that he's not settling on just the great first thing he had. He's continuing -- Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-456",
+    "time": "0:37:46",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-457",
+    "time": "0:37:47",
+    "speaker": "spk_3",
+    "line": "to refine it and make it even better as his mouth sort of his hands open and concentration.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-458",
+    "time": "0:37:53",
+    "speaker": "spk_1",
+    "line": "Yeah. Should I run it again?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-459",
+    "time": "0:37:54",
+    "speaker": "spk_3",
+    "line": "Run yes. You should have pointed at Cody ninety seconds ago. Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-460",
+    "time": "0:37:59",
+    "speaker": "spk_1",
+    "line": "There we go. He's got it. You you got it queued up.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-461",
+    "time": "0:38:04",
+    "speaker": "spk_2",
+    "line": "Yes.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-462",
+    "time": "0:38:04",
+    "speaker": "spk_1",
+    "line": "I'm not giving this ninety seconds anymore when I point. It's",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-463",
+    "time": "0:38:09",
+    "speaker": "spk_2",
+    "line": "your funeral buddy, but okay. No. No.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-464",
+    "time": "0:38:12",
+    "speaker": "spk_5",
+    "line": "It it it",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-465",
+    "time": "0:38:12",
+    "speaker": "spk_3",
+    "line": "it it no. It is. You are funeral.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-466",
+    "time": "0:38:14",
+    "speaker": "spk_1",
+    "line": "No. It's your it's your funeral buddy. You won't reach that birthday. You'll you'll come up a couple days short if you miss this thing up. Wow. Whoa. I want this show to succeed.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-467",
+    "time": "0:38:26",
+    "speaker": "spk_2",
+    "line": "Well, Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-468",
+    "time": "0:38:27",
+    "speaker": "spk_5",
+    "line": "It's a podcast. Though, you you're not gonna kill Cody.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-469",
+    "time": "0:38:29",
+    "speaker": "spk_3",
+    "line": "No. No. I'm look. Is it that bad?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-470",
+    "time": "0:38:31",
+    "speaker": "spk_1",
+    "line": "You want all No. Not a podcast. I'm trying to with guys like this, though, Jesse's trying the touchy feely thing, and that works to a point. But a guy like this is just asking for somebody to knock him around a little bit and put a little bit of fear in him to give you what you need. You know what I mean?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-471",
+    "time": "0:38:49",
+    "speaker": "spk_3",
+    "line": "And you said you were gonna break his laptop and it is clearly already broken.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-472",
+    "time": "0:38:53",
+    "speaker": "spk_1",
+    "line": "So",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-473",
+    "time": "0:38:53",
+    "speaker": "spk_2",
+    "line": "it's a script's laptop",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-474",
+    "time": "0:38:54",
+    "speaker": "spk_1",
+    "line": "too,",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-475",
+    "time": "0:38:55",
+    "speaker": "spk_2",
+    "line": "but",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-476",
+    "time": "0:38:56",
+    "speaker": "spk_1",
+    "line": "okay. I mean So that topic, the sound is telling me that it is time to revisit the topic box. And what's we got going in here tonight, what's this say? Birthdays, well, Time wonder if anybody in this room has a birthday coming up.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-477",
+    "time": "0:39:16",
+    "speaker": "spk_2",
+    "line": "Yes, sir. I I would be the guilty one.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-478",
+    "time": "0:39:19",
+    "speaker": "spk_4",
+    "line": "That was Greece knows. It's Greece knows this birthday.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-479",
+    "time": "0:39:21",
+    "speaker": "spk_1",
+    "line": "Greece knows his birthday. Greece knows what birthday plans you got?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-480",
+    "time": "0:39:27",
+    "speaker": "spk_2",
+    "line": "I'm gonna head out to out to the desert. I'm gonna hit the campgrounds.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-481",
+    "time": "0:39:30",
+    "speaker": "spk_1",
+    "line": "Okay. You're good. You you didn't need to add the desert into the thing because that's splitting the So you're gonna go camping. How are you gonna maybe do a you're gonna blow out a campfire instead of a cape? I'm gonna try. And then what if somebody you Jesse Thorn any fears? Wait. We're not doing fears. No. There's",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-482",
+    "time": "0:39:53",
+    "speaker": "spk_3",
+    "line": "things. I'm afraid of spiders but they're a campfire",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-483",
+    "time": "0:39:56",
+    "speaker": "spk_4",
+    "line": "thing killed me.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-484",
+    "time": "0:39:56",
+    "speaker": "spk_3",
+    "line": "Let him See, and that's a good podcast left. And so let him finish his podcast, laugh. Before",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-485",
+    "time": "0:40:02",
+    "speaker": "spk_1",
+    "line": "was that a good podcast laugh? That sounds a little much to me.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-486",
+    "time": "0:40:05",
+    "speaker": "spk_3",
+    "line": "No. No. No. It's a great I",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-487",
+    "time": "0:40:07",
+    "speaker": "spk_4",
+    "line": "love to have fun with me. Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-488",
+    "time": "0:40:09",
+    "speaker": "spk_1",
+    "line": "Oh, no. People do love to have fun with you. I'm just saying, that's not your natural laugh. We all know that. That's not either. Is that what's expected of people doing podcasts now?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-489",
+    "time": "0:40:23",
+    "speaker": "spk_3",
+    "line": "Because that's the only thing that makes other people laugh. People who is the sound of laughter.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-490",
+    "time": "0:40:30",
+    "speaker": "spk_4",
+    "line": "Look, grammar girl doesn't do that, but we're talking about fun podcasts.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-491",
+    "time": "0:40:33",
+    "speaker": "spk_1",
+    "line": "Okay. Like, just give me an example of a fun podcast. Car talk. Car talk. Well, that's not a that's a radio show.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-492",
+    "time": "0:40:41",
+    "speaker": "spk_4",
+    "line": "It's it's available by podcast. Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-493",
+    "time": "0:40:44",
+    "speaker": "spk_2",
+    "line": "Not originally though. It's not originally broadcasted as a podcast, so it's actually radio.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-494",
+    "time": "0:40:48",
+    "speaker": "spk_4",
+    "line": "Is that a radio show?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-495",
+    "time": "0:40:49",
+    "speaker": "spk_1",
+    "line": "Yeah. Take your question. First",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-496",
+    "time": "0:40:50",
+    "speaker": "spk_2",
+    "line": "and foremost, it's radio.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-497",
+    "time": "0:40:51",
+    "speaker": "spk_1",
+    "line": "Hey, what should we be thinking of in terms of, like, the kind of laughter from a podcast?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-498",
+    "time": "0:40:56",
+    "speaker": "spk_3",
+    "line": "One thing that I'm sort of I was expecting",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-499",
+    "time": "0:41:00",
+    "speaker": "spk_1",
+    "line": "with",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-500",
+    "time": "0:41:00",
+    "speaker": "spk_3",
+    "line": "the opening of the topic box, that the topic was going to be something that would have brought us to the spider topic.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-501",
+    "time": "0:41:06",
+    "speaker": "spk_1",
+    "line": "I was almost there. And then Jesse did that goddamn fake laugh that knocked me so far in",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-502",
+    "time": "0:41:12",
+    "speaker": "spk_3",
+    "line": "the dark. Now I I have a feeling we've potentially lost Tom, I would have apologized the major markets for this show.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-503",
+    "time": "0:41:20",
+    "speaker": "spk_4",
+    "line": "For enjoying a great gag.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-504",
+    "time": "0:41:24",
+    "speaker": "spk_1",
+    "line": "The blowing out the Camp Fire gag?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-505",
+    "time": "0:41:27",
+    "speaker": "spk_4",
+    "line": "That was very Hayes backing",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-506",
+    "time": "0:41:28",
+    "speaker": "spk_1",
+    "line": "on this.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-507",
+    "time": "0:41:28",
+    "speaker": "spk_3",
+    "line": "Yes. It's a great deal.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-508",
+    "time": "0:41:29",
+    "speaker": "spk_1",
+    "line": "Very funny. It was funny. It was funny. So That sound tells me.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-509",
+    "time": "0:41:37",
+    "speaker": "spk_5",
+    "line": "You have to hear the sound first. Mudd",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-510",
+    "time": "0:41:40",
+    "speaker": "spk_2",
+    "line": "that I'm sorry, Harris.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-511",
+    "time": "0:41:43",
+    "speaker": "spk_1",
+    "line": "That tells me a sign in the topic box. We're gonna go check it out and see what's in here. Well, look at this. How about this? Two topics coming out at the same time. Happens once in a while, and this happened. Now we got dual tops. We've got birthdays and phobias on the table at the same time. Who's got first first things first? Who in the room's got a birthday coming up?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-512",
+    "time": "0:42:04",
+    "speaker": "spk_2",
+    "line": "That's me.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-513",
+    "time": "0:42:04",
+    "speaker": "spk_1",
+    "line": "Cody, you got a birthday. What are you gonna do for that birthday?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-514",
+    "time": "0:42:07",
+    "speaker": "spk_2",
+    "line": "Head now to the campsite.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-515",
+    "time": "0:42:08",
+    "speaker": "spk_1",
+    "line": "Camp sites. You're gonna bring a cake out there or you're gonna blow out your campfire?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-516",
+    "time": "0:42:12",
+    "speaker": "spk_2",
+    "line": "Probably blow out a campfire.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-517",
+    "time": "0:42:15",
+    "speaker": "spk_1",
+    "line": "That's good. Thank you for raining that in a little bit.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-518",
+    "time": "0:42:19",
+    "speaker": "spk_2",
+    "line": "Jesse, what what do you think?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-519",
+    "time": "0:42:22",
+    "speaker": "spk_1",
+    "line": "In terms of your fears. Jesse, any fears, any phobias? A spider spiders. So you're scared of spiders or are you scared of spider man?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-520",
+    "time": "0:42:31",
+    "speaker": "spk_3",
+    "line": "No. Testing, No. Just like, just spiders.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-521",
+    "time": "0:42:36",
+    "speaker": "spk_1",
+    "line": "Just spiders. Any other phobias?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-522",
+    "time": "0:42:38",
+    "speaker": "spk_4",
+    "line": "Infinity. Infinity.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-523",
+    "time": "0:42:39",
+    "speaker": "spk_1",
+    "line": "Now what if you saw spider driving an infinity?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-524",
+    "time": "0:42:42",
+    "speaker": "spk_4",
+    "line": "Oh, are we talking about one big spider?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-525",
+    "time": "0:42:45",
+    "speaker": "spk_1",
+    "line": "Well, no. We'd be told what it could be one big spider or could be a bunch of different spiders adding up to take the shape of a human. Tom, I thought we",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-526",
+    "time": "0:42:54",
+    "speaker": "spk_2",
+    "line": "were gonna go to my thing.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-527",
+    "time": "0:42:58",
+    "speaker": "spk_4",
+    "line": "I saw, now here's what I saw, Cody.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-528",
+    "time": "0:43:01",
+    "speaker": "spk_1",
+    "line": "It's the thing about the the How are",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-529",
+    "time": "0:43:04",
+    "speaker": "spk_2",
+    "line": "we going to my thing now?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-530",
+    "time": "0:43:06",
+    "speaker": "spk_1",
+    "line": "Yeah. The thing about the the the lane?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-531",
+    "time": "0:43:09",
+    "speaker": "spk_3",
+    "line": "Cody, the last thing I wanna",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-532",
+    "time": "0:43:11",
+    "speaker": "spk_4",
+    "line": "do have gone a little",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-533",
+    "time": "0:43:12",
+    "speaker": "spk_1",
+    "line": "the class.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-534",
+    "time": "0:43:12",
+    "speaker": "spk_4",
+    "line": "The lane? Last thing I want to do is tell you how to do your job. But",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-535",
+    "time": "0:43:17",
+    "speaker": "spk_1",
+    "line": "uh-huh. Tell who?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-536",
+    "time": "0:43:19",
+    "speaker": "spk_4",
+    "line": "Anyone.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-537",
+    "time": "0:43:19",
+    "speaker": "spk_1",
+    "line": "This is",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-538",
+    "time": "0:43:20",
+    "speaker": "spk_4",
+    "line": "the last thing I would do. I'm very humble. It's one of my best qualities.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-539",
+    "time": "0:43:24",
+    "speaker": "spk_1",
+    "line": "But before you say, I'm gonna I'm gonna do I'm gonna do this.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-540",
+    "time": "0:43:26",
+    "speaker": "spk_3",
+    "line": "That was a joke, Tom. And so if you could Is that the podcast lab? Do that.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-541",
+    "time": "0:43:33",
+    "speaker": "spk_1",
+    "line": "That is a new sound you found. You found a new one. You're gonna But",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-542",
+    "time": "0:43:39",
+    "speaker": "spk_2",
+    "line": "anyway, what were you saying?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-543",
+    "time": "0:43:42",
+    "speaker": "spk_1",
+    "line": "I was saying.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-544",
+    "time": "0:43:43",
+    "speaker": "spk_4",
+    "line": "There's a part of me that wonders",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-545",
+    "time": "0:43:45",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-546",
+    "time": "0:43:45",
+    "speaker": "spk_4",
+    "line": "mhmm. -- whether Cody just has like Macintosh classic, and he's going through the installed sounds.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-547",
+    "time": "0:43:55",
+    "speaker": "spk_2",
+    "line": "Yeah. Guys. Come on. Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-548",
+    "time": "0:43:59",
+    "speaker": "spk_4",
+    "line": "Gray scale monitor. Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-549",
+    "time": "0:44:00",
+    "speaker": "spk_3",
+    "line": "Speaking for it's a it's a a Clarus works Piano app. Mhmm. So",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-550",
+    "time": "0:44:08",
+    "speaker": "spk_4",
+    "line": "just running it on his Omega.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-551",
+    "time": "0:44:12",
+    "speaker": "spk_1",
+    "line": "I told you,",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-552",
+    "time": "0:44:16",
+    "speaker": "spk_4",
+    "line": "when it was coming. He pointed to you, Cody.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-553",
+    "time": "0:44:18",
+    "speaker": "spk_1",
+    "line": "When it was the thing, you better hit it",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-554",
+    "time": "0:44:21",
+    "speaker": "spk_2",
+    "line": "i thought the point was Not",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-555",
+    "time": "0:44:22",
+    "speaker": "spk_1",
+    "line": "to go. Is this this now? Is this the time?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-556",
+    "time": "0:44:27",
+    "speaker": "spk_4",
+    "line": "I feel like I really stood up for you, Cody.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-557",
+    "time": "0:44:29",
+    "speaker": "spk_1",
+    "line": "You did. And I'm happy with you for that.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-558",
+    "time": "0:44:32",
+    "speaker": "spk_3",
+    "line": "Can we try",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-559",
+    "time": "0:44:32",
+    "speaker": "spk_2",
+    "line": "to do it",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-560",
+    "time": "0:44:33",
+    "speaker": "spk_3",
+    "line": "now? Was the thing is the thing that you want to do? Is it the thing that Jesse presented to you? Or is it your own",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-561",
+    "time": "0:44:39",
+    "speaker": "spk_1",
+    "line": "he's gonna say the thing about the carpool.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-562",
+    "time": "0:44:41",
+    "speaker": "spk_3",
+    "line": "I don't know that for sure. I think he might have his own thing.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-563",
+    "time": "0:44:45",
+    "speaker": "spk_1",
+    "line": "Well, what would that be? I wanna hear this before you say it because",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-564",
+    "time": "0:44:48",
+    "speaker": "spk_2",
+    "line": "i really",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-565",
+    "time": "0:44:49",
+    "speaker": "spk_3",
+    "line": "i I like it to be set up in the in in in the moment. In the moment. Is it your own thing, Cody? Is it your own thing on spiders? Yeah. So tell Tom what the ideal setup would be. And this I would love this to be a conversation that happens before the show where Tom, you go to Cody and say what setups? Can I put on schedule for you?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-566",
+    "time": "0:45:08",
+    "speaker": "spk_1",
+    "line": "Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-567",
+    "time": "0:45:08",
+    "speaker": "spk_3",
+    "line": "And so so Cody, what's what what what should Do you kind of bring up",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-568",
+    "time": "0:45:12",
+    "speaker": "spk_4",
+    "line": "my headphones? I just don't want it. I just don't wanna hear I wanna hear this in",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-569",
+    "time": "0:45:15",
+    "speaker": "spk_2",
+    "line": "real They're fresh. So so Tom,",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-570",
+    "time": "0:45:18",
+    "speaker": "spk_1",
+    "line": "like -- Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-571",
+    "time": "0:45:18",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-572",
+    "time": "0:45:18",
+    "speaker": "spk_2",
+    "line": "like I was saying, Jesse was telling me earlier about his some really bad personal stuff he's going through and it's, like, kind of a rough time frame, rough patch with the wife, with the family, and the big big accident. Mhmm. It's like, or whatever, but I wanted to sort of address like maybe his phobias -- Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-573",
+    "time": "0:45:36",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-574",
+    "time": "0:45:37",
+    "speaker": "spk_2",
+    "line": "are infinity spiders. Mhmm. Maybe it's all related to his overarching fear of mortality and death.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-575",
+    "time": "0:45:45",
+    "speaker": "spk_1",
+    "line": "Mhmm. So I just",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-576",
+    "time": "0:45:46",
+    "speaker": "spk_2",
+    "line": "i thought maybe, like, that was my point of me. I'll bring that up. And ask him like What about that?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-577",
+    "time": "0:45:53",
+    "speaker": "spk_1",
+    "line": "Okay. Alright. Do you think it'll work? I",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-578",
+    "time": "0:45:57",
+    "speaker": "spk_2",
+    "line": "i don't know if it'll work, but we gotta try.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-579",
+    "time": "0:46:00",
+    "speaker": "spk_1",
+    "line": "You gotta though, you're a man of few words, you better choose all of them correctly. Because again, I know Yeah. Look. Yes. I'm not gonna kill you over a podcast. That's was just",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-580",
+    "time": "0:46:14",
+    "speaker": "spk_2",
+    "line": "a gag, hot air, whatever.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-581",
+    "time": "0:46:16",
+    "speaker": "spk_1",
+    "line": "It was a gag. Yes. But I do want this to succeed. I'm tired of being outside looking in on this. This is like my last shot, this show. This grease nose eggs thing? This is pretty much all I've got. I only got like a I feel like a like a use car salesman or something. Like I gotta sell one more car",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-582",
+    "time": "0:46:37",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-583",
+    "time": "0:46:38",
+    "speaker": "spk_1",
+    "line": "mhmm. -- or something like that.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-584",
+    "time": "0:46:40",
+    "speaker": "spk_3",
+    "line": "Can I point something at Cody, now I am looking forward to this? I think this is gonna go great. I loved just the run through I thought was fantastic. You said that you had something you wanna do with spiders before you heard about Jesse's difficult last couple weeks and but it seems like the thing that you have that you want to talk about with spiders is in reaction to that. And so I'm confused I'm just confused about the timeline.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-585",
+    "time": "0:47:09",
+    "speaker": "spk_4",
+    "line": "I wrote to Cody.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-586",
+    "time": "0:47:10",
+    "speaker": "spk_3",
+    "line": "You wrote to Cody? Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-587",
+    "time": "0:47:12",
+    "speaker": "spk_2",
+    "line": "I didn't hear you. But sort",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-588",
+    "time": "0:47:13",
+    "speaker": "spk_4",
+    "line": "of a confidant. For me.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-589",
+    "time": "0:47:14",
+    "speaker": "spk_3",
+    "line": "Prior to telling him",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-590",
+    "time": "0:47:17",
+    "speaker": "spk_4",
+    "line": "when the events transpired, which I'd rather not get too much into because it's pretty raw. Oh, okay. I wrote to Cody.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-591",
+    "time": "0:47:24",
+    "speaker": "spk_2",
+    "line": "Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-592",
+    "time": "0:47:25",
+    "speaker": "spk_4",
+    "line": "Just looking for some comfort.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-593",
+    "time": "0:47:27",
+    "speaker": "spk_1",
+    "line": "Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-594",
+    "time": "0:47:28",
+    "speaker": "spk_3",
+    "line": "And then in telling him again about it on the show",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-595",
+    "time": "0:47:31",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-596",
+    "time": "0:47:31",
+    "speaker": "spk_4",
+    "line": "i hit met Cody previously. When I get on Sclarbro country.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-597",
+    "time": "0:47:36",
+    "speaker": "spk_1",
+    "line": "Okay. You had met him then. Guess hosted, or guess, get",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-598",
+    "time": "0:47:44",
+    "speaker": "spk_4",
+    "line": "a yes. I just guessed guess by the candidate. And now",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-599",
+    "time": "0:47:46",
+    "speaker": "spk_3",
+    "line": "i just wanna make sure Is",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-600",
+    "time": "0:47:47",
+    "speaker": "spk_1",
+    "line": "it one of them misses, do they both that's a hard thing to do. It would",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-601",
+    "time": "0:47:51",
+    "speaker": "spk_4",
+    "line": "be hard to have that kind of connection.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-602",
+    "time": "0:47:53",
+    "speaker": "spk_1",
+    "line": "But I'm just saying it's hard to expect. It's hard enough to you know what it's like. You gotta do a show every week. Right. You gotta be there all the time? Two guys have to be there every thing.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-603",
+    "time": "0:48:02",
+    "speaker": "spk_3",
+    "line": "I just wanna clear just so I'm clear. People you're close to dying in an accident is not a euphemism you use for being on Squarborough country. Right?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-604",
+    "time": "0:48:13",
+    "speaker": "spk_4",
+    "line": "I'll go through the timeline. I appeared I appeared a number of times on Sclargo Country.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-605",
+    "time": "0:48:20",
+    "speaker": "spk_2",
+    "line": "He signed a release.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-606",
+    "time": "0:48:22",
+    "speaker": "spk_4",
+    "line": "Both in character as Jesse Thorn with an e at the end, British sports reporter and as fantasy expert",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-607",
+    "time": "0:48:29",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-608",
+    "time": "0:48:30",
+    "speaker": "spk_4",
+    "line": "mhmm. -- resident fantasyologist, Jesse Thorn. I actually appeared they made a television pilot. They were kind enough to include me in that. It's sort of a side project. It's their main thing, but it's sort of a side project for me. I had met Cody.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-609",
+    "time": "0:48:42",
+    "speaker": "spk_3",
+    "line": "And this would by the way, Tom, this would be good for you to ask him about as the show is warming up -- Sure.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-610",
+    "time": "0:48:48",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-611",
+    "time": "0:48:48",
+    "speaker": "spk_3",
+    "line": "the kind of context of where deep in the we're we're we're inert. No. I think this is the context for to understand Jesse going in and many the phobias and the",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-612",
+    "time": "0:48:57",
+    "speaker": "spk_4",
+    "line": "i had met Cody previously. Mhmm. During recording in one of those episodes, you happen to be the engineer. Then more recently, last couple of weeks, had a lot of problems with my wife. Mhmm. And a couple of people very close to me died in an accident. So, I wrote to Cody. Again, just looking for some comfort. And so that's why he knew ahead of time to prep a joke -- Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-613",
+    "time": "0:49:34",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-614",
+    "time": "0:49:35",
+    "speaker": "spk_4",
+    "line": "about spiders. Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-615",
+    "time": "0:49:36",
+    "speaker": "spk_2",
+    "line": "I",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-616",
+    "time": "0:49:36",
+    "speaker": "spk_4",
+    "line": "mentioned the spider thing in the letter along with the trouble I was having with my wife",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-617",
+    "time": "0:49:42",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-618",
+    "time": "0:49:42",
+    "speaker": "spk_1",
+    "line": "mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-619",
+    "time": "0:49:42",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-620",
+    "time": "0:49:43",
+    "speaker": "spk_4",
+    "line": "and the deaths.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-621",
+    "time": "0:49:44",
+    "speaker": "spk_1",
+    "line": "Okay. Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-622",
+    "time": "0:49:45",
+    "speaker": "spk_4",
+    "line": "In the accident.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-623",
+    "time": "0:49:46",
+    "speaker": "spk_3",
+    "line": "Okay. And this is and so you haven't heard this. I don't want you to hear it ahead of time. But",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-624",
+    "time": "0:49:52",
+    "speaker": "spk_1",
+    "line": "so that sound I'm hearing is we just just",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-625",
+    "time": "0:49:55",
+    "speaker": "spk_3",
+    "line": "i just want to clear. This is a joke that you've prepared. Right? This Right. Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-626",
+    "time": "0:50:00",
+    "speaker": "spk_2",
+    "line": "And I've got even a q rest sound cue ready. Okay. Because I've I've been in touch with Jesse about it.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-627",
+    "time": "0:50:05",
+    "speaker": "spk_1",
+    "line": "So that sound I'm hearing, wrong sound. The wrong sound. That's the wrong sound. It's the topic box.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-628",
+    "time": "0:50:18",
+    "speaker": "spk_5",
+    "line": "He is running the board. Yeah. We've established that.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-629",
+    "time": "0:50:21",
+    "speaker": "spk_2",
+    "line": "Yeah. Okay. Sorry. I thought we were jumping right into the",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-630",
+    "time": "0:50:24",
+    "speaker": "spk_1",
+    "line": "no. It's like The sound that old sound tells me and tells all of us that who all the fans of the Greece Knows eggs show. That tells me it's time to go check-in the topic box and see what's going on in there and We got two topics coming out tonight. We got birthdays and phobias. How about that? First, let's just get birthdays. Who's got a birthday coming up?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-631",
+    "time": "0:50:49",
+    "speaker": "spk_2",
+    "line": "Yours truly.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-632",
+    "time": "0:50:50",
+    "speaker": "spk_1",
+    "line": "You got a birthday coming up. Go. Grease knows as a birthday coming up. What are you gonna do for that birthday? Grease knows?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-633",
+    "time": "0:50:56",
+    "speaker": "spk_2",
+    "line": "I'm gonna head out to the campgrounds.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-634",
+    "time": "0:50:58",
+    "speaker": "spk_1",
+    "line": "Oh, you're gonna bring a cake with her, you're gonna blow out your campfire.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-635",
+    "time": "0:51:03",
+    "speaker": "spk_2",
+    "line": "I don't know a time.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-636",
+    "time": "0:51:05",
+    "speaker": "spk_1",
+    "line": "I see",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-637",
+    "time": "0:51:05",
+    "speaker": "spk_2",
+    "line": "how the night goes. Uh-huh.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-638",
+    "time": "0:51:06",
+    "speaker": "spk_1",
+    "line": "I see how the night goes. Yeah. Jesse Thorn",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-639",
+    "time": "0:51:09",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-640",
+    "time": "0:51:10",
+    "speaker": "spk_4",
+    "line": "yes, sir.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-641",
+    "time": "0:51:10",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-642",
+    "time": "0:51:11",
+    "speaker": "spk_1",
+    "line": "host of host of Bullseye and appeared on the Sklar Brothers pilot from what I heard when they did a pilot of their thing, you did your Fantasy Sports character.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-643",
+    "time": "0:51:24",
+    "speaker": "spk_3",
+    "line": "Fantasy expert, Josie Thorn.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-644",
+    "time": "0:51:26",
+    "speaker": "spk_1",
+    "line": "Yes. And",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-645",
+    "time": "0:51:27",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-646",
+    "time": "0:51:28",
+    "speaker": "spk_1",
+    "line": "you have any phobias, Jesse?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-647",
+    "time": "0:51:29",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-648",
+    "time": "0:51:29",
+    "speaker": "spk_5",
+    "line": "who were the other characters",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-649",
+    "time": "0:51:30",
+    "speaker": "spk_3",
+    "line": "that he's been on Swarketer.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-650",
+    "time": "0:51:31",
+    "speaker": "spk_1",
+    "line": "He did a British guy himself and the Fantasy Sports Next.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-651",
+    "time": "0:51:35",
+    "speaker": "spk_3",
+    "line": "As as Jesse Thorn.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-652",
+    "time": "0:51:38",
+    "speaker": "spk_1",
+    "line": "As Jesse Thorn.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-653",
+    "time": "0:51:39",
+    "speaker": "spk_3",
+    "line": "With an e with an e.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-654",
+    "time": "0:51:42",
+    "speaker": "spk_4",
+    "line": "It's a British spelling of thorn.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-655",
+    "time": "0:51:44",
+    "speaker": "spk_1",
+    "line": "Yes. Any phobias? Jesse Thorn?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-656",
+    "time": "0:51:47",
+    "speaker": "spk_4",
+    "line": "Yes, spider.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-657",
+    "time": "0:51:48",
+    "speaker": "spk_1",
+    "line": "Spiders. Oh, are you scared of spiders or are you scared of spider man?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-658",
+    "time": "0:51:53",
+    "speaker": "spk_4",
+    "line": "Well. Well, what? What? I mean, if you if I met Spider Man, I don't know how I would react.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-659",
+    "time": "0:52:02",
+    "speaker": "spk_1",
+    "line": "Okay. So You're making",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-660",
+    "time": "0:52:04",
+    "speaker": "spk_2",
+    "line": "the you're making him",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-661",
+    "time": "0:52:05",
+    "speaker": "spk_1",
+    "line": "very secure. Just the fuck up. Any other phobias? Infinity. Infinity. So what if you saw a spider coming down the street driving an infinity?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-662",
+    "time": "0:52:14",
+    "speaker": "spk_4",
+    "line": "Big spider?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-663",
+    "time": "0:52:15",
+    "speaker": "spk_1",
+    "line": "Well, it could be one big spider, it could be a bunch of small spiders adding up to the size of a man, and Greece knows?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-664",
+    "time": "0:52:24",
+    "speaker": "spk_4",
+    "line": "It's all writing on this.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-665",
+    "time": "0:52:27",
+    "speaker": "spk_2",
+    "line": "What kind of setup that's not even related to what I'm talking. Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-666",
+    "time": "0:52:30",
+    "speaker": "spk_1",
+    "line": "Hold on and I'll get it there.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-667",
+    "time": "0:52:32",
+    "speaker": "spk_4",
+    "line": "Think so.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-668",
+    "time": "0:52:33",
+    "speaker": "spk_1",
+    "line": "So, yeah, you got a fear of this. It's a spiders. What if one of those what if the the spiders decided, hey, we're in this infinity. Instead of becoming one person, we're gonna become two people. Now we can use the the they can use the carpool lane.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-669",
+    "time": "0:52:47",
+    "speaker": "spk_4",
+    "line": "H o v.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-670",
+    "time": "0:52:47",
+    "speaker": "spk_1",
+    "line": "Right? Yeah. They can go down the highway in the carpool lane with the thing. And",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-671",
+    "time": "0:52:57",
+    "speaker": "spk_2",
+    "line": "i thought you were gonna get into the mortality thing, Tom.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-672",
+    "time": "0:52:59",
+    "speaker": "spk_3",
+    "line": "Just yeah. Cody had something he wanted to say about death and mortality.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-673",
+    "time": "0:53:03",
+    "speaker": "spk_1",
+    "line": "Greece knows anything you wanna say about Jesse's phobias, which are Spider and Infinity?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-674",
+    "time": "0:53:11",
+    "speaker": "spk_2",
+    "line": "So Jesse, I was just I was wondering, like, did you ever think that maybe, you know, it's tough to breach the topic a little bit. All the troubles off air, this stuff we've talked about. Yellowy. It's time for where",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-675",
+    "time": "0:53:29",
+    "speaker": "spk_3",
+    "line": "you do the popcorn.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-676",
+    "time": "0:53:30",
+    "speaker": "spk_1",
+    "line": "Okay. Hey, everybody. It's time for the popcorn gallery. It's our famous segments that we're doing. Apparently, we do in three snows eggs now. A segment that we it's",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-677",
+    "time": "0:53:40",
+    "speaker": "spk_2",
+    "line": "about",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-678",
+    "time": "0:53:41",
+    "speaker": "spk_1",
+    "line": "our licensing?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-679",
+    "time": "0:53:42",
+    "speaker": "spk_3",
+    "line": "Do you not want? Do you I mean, it's a popular the most popular segment on show. You did not want",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-680",
+    "time": "0:53:48",
+    "speaker": "spk_1",
+    "line": "we can do it.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-681",
+    "time": "0:53:48",
+    "speaker": "spk_3",
+    "line": "The boost that you would get",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-682",
+    "time": "0:53:50",
+    "speaker": "spk_1",
+    "line": "i did wanna say though.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-683",
+    "time": "0:53:51",
+    "speaker": "spk_2",
+    "line": "And all the questions. Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-684",
+    "time": "0:53:54",
+    "speaker": "spk_1",
+    "line": "Now What if the spiders were the war, brothers. Pop what if it was two spiders? What if two spiders what if all those spiders teamed up and formed two people that hosted a podcast together. It's",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-685",
+    "time": "0:54:07",
+    "speaker": "spk_4",
+    "line": "not a problem. The one with the glasses",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-686",
+    "time": "0:54:09",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-687",
+    "time": "0:54:09",
+    "speaker": "spk_4",
+    "line": "mhmm. -- is Jay Jason.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-688",
+    "time": "0:54:11",
+    "speaker": "spk_1",
+    "line": "Are they glasses?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-689",
+    "time": "0:54:12",
+    "speaker": "spk_4",
+    "line": "Glasses g jade, that's how you remember it.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-690",
+    "time": "0:54:14",
+    "speaker": "spk_1",
+    "line": "Is that how you do? I always remembered that on.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-691",
+    "time": "0:54:16",
+    "speaker": "spk_5",
+    "line": "The other one is randy.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-692",
+    "time": "0:54:18",
+    "speaker": "spk_1",
+    "line": "What if the spiders form the glasses? Are they actual glasses?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-693",
+    "time": "0:54:22",
+    "speaker": "spk_3",
+    "line": "Is this a popcorn gallery question? Because if it is, it should have been taken out of a popcorn rack.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-694",
+    "time": "0:54:27",
+    "speaker": "spk_2",
+    "line": "In the bag.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-695",
+    "time": "0:54:28",
+    "speaker": "spk_1",
+    "line": "Okay. Were we reaching into the bag?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-696",
+    "time": "0:54:31",
+    "speaker": "spk_3",
+    "line": "Reaching into the bag and you pull out a question.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-697",
+    "time": "0:54:34",
+    "speaker": "spk_1",
+    "line": "Those are car keys. I gotta yell that for picking up my goddamn tissue box. Put the car keys down.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-698",
+    "time": "0:54:39",
+    "speaker": "spk_2",
+    "line": "That's supposed to be the sound of you reaching",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-699",
+    "time": "0:54:40",
+    "speaker": "spk_4",
+    "line": "out of the bag. Tom, I can help.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-700",
+    "time": "0:54:42",
+    "speaker": "spk_1",
+    "line": "No. It doesn't sound like that. No. That's the sound of a baro. And Also just as a sidebar, you're drinking out of a cup here with this stuff. Just every time you put your lips on that thing, God knows what other person up here had their lips on it.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-701",
+    "time": "0:55:00",
+    "speaker": "spk_3",
+    "line": "Who do you who are you referring to?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-702",
+    "time": "0:55:01",
+    "speaker": "spk_1",
+    "line": "I don't know. Seth Gordon Wait.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-703",
+    "time": "0:55:04",
+    "speaker": "spk_3",
+    "line": "Are you talking about cool op? No. I'm talking about That's Scott's wife, you're saying that she has a gross",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-704",
+    "time": "0:55:10",
+    "speaker": "spk_1",
+    "line": "mouth mouth. I'm talking about Seth Goden's business school or whatever it was.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-705",
+    "time": "0:55:14",
+    "speaker": "spk_3",
+    "line": "Seem like you were talking about cool up. I was not.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-706",
+    "time": "0:55:17",
+    "speaker": "spk_4",
+    "line": "Sith Golden's a friend of mine. Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-707",
+    "time": "0:55:21",
+    "speaker": "spk_1",
+    "line": "So we're going into a popcorn bag here at the popcorn gallery. Right?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-708",
+    "time": "0:55:25",
+    "speaker": "spk_3",
+    "line": "Yes. That's right. Wow.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-709",
+    "time": "0:55:27",
+    "speaker": "spk_1",
+    "line": "Do I have to do that?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-710",
+    "time": "0:55:28",
+    "speaker": "spk_3",
+    "line": "Yes. You have to pull it out of the bank. They have to stay in the bag.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-711",
+    "time": "0:55:35",
+    "speaker": "spk_1",
+    "line": "Oh, we got a question here.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-712",
+    "time": "0:55:37",
+    "speaker": "spk_3",
+    "line": "And it's for here, you have to read it off the computer. And you have to say who it's from, which is on the top",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-713",
+    "time": "0:55:45",
+    "speaker": "spk_1",
+    "line": "of the We got a question here. We got a content content fan says content fan. No.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-714",
+    "time": "0:55:54",
+    "speaker": "spk_3",
+    "line": "What are you looking",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-715",
+    "time": "0:55:56",
+    "speaker": "spk_1",
+    "line": "at? Look at that.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-716",
+    "time": "0:55:59",
+    "speaker": "spk_3",
+    "line": "No. It's that's his name. His name's",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-717",
+    "time": "0:56:00",
+    "speaker": "spk_1",
+    "line": "i don't subscribe to this dumb board. Like, I'm on this message board. No. I've never seen this one. Like, I'm on this. The only time I want is I look for my own name and never comes up.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-718",
+    "time": "0:56:11",
+    "speaker": "spk_3",
+    "line": "You search your own name? Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-719",
+    "time": "0:56:14",
+    "speaker": "spk_1",
+    "line": "On this thing to see if people are bad about me.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-720",
+    "time": "0:56:16",
+    "speaker": "spk_3",
+    "line": "Busy guys. A search.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-721",
+    "time": "0:56:17",
+    "speaker": "spk_4",
+    "line": "Yeah. Was he gonna search for Seth Gordon?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-722",
+    "time": "0:56:19",
+    "speaker": "spk_1",
+    "line": "I wanna see if any of these comedy rats are bad mouthing me on this thing.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-723",
+    "time": "0:56:23",
+    "speaker": "spk_3",
+    "line": "It's kinda weird. You know? You're married.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-724",
+    "time": "0:56:26",
+    "speaker": "spk_1",
+    "line": "Uh-huh. I wanna see if they're",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-725",
+    "time": "0:56:27",
+    "speaker": "spk_3",
+    "line": "spend time with your wife.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-726",
+    "time": "0:56:29",
+    "speaker": "spk_1",
+    "line": "Uh-huh. Okay. Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-727",
+    "time": "0:56:31",
+    "speaker": "spk_2",
+    "line": "At least you have one.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-728",
+    "time": "0:56:33",
+    "speaker": "spk_1",
+    "line": "Good question. Point, like, building my question. It was Say points. Great point, Greece knows.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-729",
+    "time": "0:56:40",
+    "speaker": "spk_4",
+    "line": "Thank for mentioning",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-730",
+    "time": "0:56:41",
+    "speaker": "spk_1",
+    "line": "and don't think I didn't miss the eight times. You just went, I'm just blocking it out now. Alright. We go to the question, then we got Chevsky wants to know, Jesse, they say every road",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-731",
+    "time": "0:56:56",
+    "speaker": "spk_3",
+    "line": "the next one, that one's bad. That was highlighted.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-732",
+    "time": "0:57:00",
+    "speaker": "spk_2",
+    "line": "Hey, you're gonna cut a lot.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-733",
+    "time": "0:57:01",
+    "speaker": "spk_1",
+    "line": "We're talking around. Gotcha. Content oh, no. Chevsky wants to know, Jesse, have you ever met cereal at NPR?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-734",
+    "time": "0:57:18",
+    "speaker": "spk_4",
+    "line": "So cereal is a popular podcast.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-735",
+    "time": "0:57:22",
+    "speaker": "spk_1",
+    "line": "Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-736",
+    "time": "0:57:22",
+    "speaker": "spk_5",
+    "line": "That should be Tom. I appreciate you doing this, Jesse. It should be Tom kind",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-737",
+    "time": "0:57:25",
+    "speaker": "spk_3",
+    "line": "of explaining the context of",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-738",
+    "time": "0:57:28",
+    "speaker": "spk_1",
+    "line": "because cereal is a popular podcast that is apparently what is it a show hosted by a murderer? I've never heard it.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-739",
+    "time": "0:57:42",
+    "speaker": "spk_4",
+    "line": "Yeah. I mean, that's",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-740",
+    "time": "0:57:43",
+    "speaker": "spk_1",
+    "line": "so have you met cereal?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-741",
+    "time": "0:57:45",
+    "speaker": "spk_4",
+    "line": "No.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-742",
+    "time": "0:57:49",
+    "speaker": "spk_1",
+    "line": "And you didn't say anything. You saw the deadest of dead spots here. You're supposedly friends with this guy. He was talking about I was friend died, and then there's fighting with his wife. And",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-743",
+    "time": "0:58:00",
+    "speaker": "spk_4",
+    "line": "you could at least play that flowrider song I like. Okay. Futuring David Guetta.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-744",
+    "time": "0:58:07",
+    "speaker": "spk_1",
+    "line": "Gonna go back into the bag here and the popcorn Oh, what do we we've got here. Have to do that? I don't have to do that.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-745",
+    "time": "0:58:15",
+    "speaker": "spk_3",
+    "line": "It should be farther in the bag. You're all good. Hey. Wow. Yes.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-746",
+    "time": "0:58:20",
+    "speaker": "spk_5",
+    "line": "Just this is a good",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-747",
+    "time": "0:58:21",
+    "speaker": "spk_3",
+    "line": "time while they find the question, so that we can have bark combination.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-748",
+    "time": "0:58:24",
+    "speaker": "spk_1",
+    "line": "The song",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-749",
+    "time": "0:58:25",
+    "speaker": "spk_4",
+    "line": "that's like",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-750",
+    "time": "0:58:25",
+    "speaker": "spk_1",
+    "line": "the Sklark Brothers.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-751",
+    "time": "0:58:26",
+    "speaker": "spk_4",
+    "line": "The song low got me into flow right of solo work. Sure. But I've really come to love his work with David Gueda.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-752",
+    "time": "0:58:34",
+    "speaker": "spk_1",
+    "line": "A pastry Oh, that's not it. Norm wants to know. Jesse how can I get it more often?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-753",
+    "time": "0:58:43",
+    "speaker": "spk_3",
+    "line": "Don't say it, like, in like a sexy way. I mean,",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-754",
+    "time": "0:58:50",
+    "speaker": "spk_1",
+    "line": "norm wants to know.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-755",
+    "time": "0:58:51",
+    "speaker": "spk_4",
+    "line": "I kinda didn't mind.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-756",
+    "time": "0:58:52",
+    "speaker": "spk_1",
+    "line": "I'm thinking",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-757",
+    "time": "0:58:52",
+    "speaker": "spk_4",
+    "line": "of sexy one.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-758",
+    "time": "0:58:53",
+    "speaker": "spk_1",
+    "line": "How can I get it more often? Is that better? Is that neutered enough for you? Who from that erotic white",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-759",
+    "time": "0:59:02",
+    "speaker": "spk_3",
+    "line": "type of Jerry Seinfeld?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-760",
+    "time": "0:59:04",
+    "speaker": "spk_1",
+    "line": "Well, I guess I can't win.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-761",
+    "time": "0:59:06",
+    "speaker": "spk_3",
+    "line": "Think that Cherry Steinfield's not sexy?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-762",
+    "time": "0:59:08",
+    "speaker": "spk_2",
+    "line": "Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-763",
+    "time": "0:59:10",
+    "speaker": "spk_3",
+    "line": "Go ahead, Jesse.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-764",
+    "time": "0:59:12",
+    "speaker": "spk_1",
+    "line": "How can Norm get it more often?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-765",
+    "time": "0:59:15",
+    "speaker": "spk_4",
+    "line": "Can just be, you know, clean up and",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-766",
+    "time": "0:59:21",
+    "speaker": "spk_5",
+    "line": "just like getting shit together? Mhmm. Basically.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-767",
+    "time": "0:59:25",
+    "speaker": "spk_1",
+    "line": "Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-768",
+    "time": "0:59:25",
+    "speaker": "spk_4",
+    "line": "Get off the message board. Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-769",
+    "time": "0:59:28",
+    "speaker": "spk_1",
+    "line": "Get off the mess. Okay. Yeah. We got Chevsky also wants oh, we did this one already.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-770",
+    "time": "0:59:33",
+    "speaker": "spk_4",
+    "line": "Thank you very much.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-771",
+    "time": "0:59:34",
+    "speaker": "spk_3",
+    "line": "I think we are gonna be taking this segment. Back. There's very little for Cody to do it. And this is is my is my biggest concern. The question should be directed",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-772",
+    "time": "0:59:44",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-773",
+    "time": "0:59:44",
+    "speaker": "spk_4",
+    "line": "i'm kidding.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-774",
+    "time": "0:59:45",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-775",
+    "time": "0:59:45",
+    "speaker": "spk_3",
+    "line": "for Cody and Jesse to have a debate style conversation about the answer to -- I'm worried.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-776",
+    "time": "0:59:52",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-777",
+    "time": "0:59:53",
+    "speaker": "spk_4",
+    "line": "to some extent that Cody's skills are atrophy.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-778",
+    "time": "0:59:55",
+    "speaker": "spk_1",
+    "line": "What is it? It's a good it's a good point. I",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-779",
+    "time": "1:00:00",
+    "speaker": "spk_2",
+    "line": "can't speak up. He's not. Sorry. I got a frog in there.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-780",
+    "time": "1:00:07",
+    "speaker": "spk_4",
+    "line": "QED, it has been demonstrated.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-781",
+    "time": "1:00:09",
+    "speaker": "spk_3",
+    "line": "Who's making",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-782",
+    "time": "1:00:09",
+    "speaker": "spk_4",
+    "line": "that noise? Oh, it's",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-783",
+    "time": "1:00:13",
+    "speaker": "spk_1",
+    "line": "me. Just tapping away.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-784",
+    "time": "1:00:15",
+    "speaker": "spk_2",
+    "line": "So where are we going to go with this?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-785",
+    "time": "1:00:18",
+    "speaker": "spk_1",
+    "line": "Where do we want to go with this? Well, this is not going anywhere. So where we're going I'm going away from this. I can tell you that apparently, my shot at making it on earwolf for maximum fun. It's just I'm watching it wither in front of me.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-786",
+    "time": "1:00:38",
+    "speaker": "spk_4",
+    "line": "Tom, if it makes you feel better, I don't think you really had a shot at making it on a maximum flight.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-787",
+    "time": "1:00:42",
+    "speaker": "spk_1",
+    "line": "Okay. Well, that's a fair point.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-788",
+    "time": "1:00:44",
+    "speaker": "spk_3",
+    "line": "What do you think this is actually great, Jesse. What what what's the what should we be targeting? Do you think feral? Is there something at feral that we could do?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-789",
+    "time": "1:00:55",
+    "speaker": "spk_4",
+    "line": "We're talking about networks here.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-790",
+    "time": "1:00:56",
+    "speaker": "spk_1",
+    "line": "The new",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-791",
+    "time": "1:00:57",
+    "speaker": "spk_3",
+    "line": "year is that new Jake and Amir one? I just don't know what to I",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-792",
+    "time": "1:01:01",
+    "speaker": "spk_2",
+    "line": "feel like we should be targeting millennials. Right?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-793",
+    "time": "1:01:04",
+    "speaker": "spk_1",
+    "line": "Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-794",
+    "time": "1:01:04",
+    "speaker": "spk_4",
+    "line": "I that's what that's exactly what I was thinking. If you're gonna target anyone, target millennials, they've got a lot of buying power.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-795",
+    "time": "1:01:10",
+    "speaker": "spk_3",
+    "line": "Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-796",
+    "time": "1:01:10",
+    "speaker": "spk_4",
+    "line": "And they're really idealistic. Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-797",
+    "time": "1:01:12",
+    "speaker": "spk_1",
+    "line": "Like modern humorist, is that a thing?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-798",
+    "time": "1:01:15",
+    "speaker": "spk_4",
+    "line": "I would probably go for modern humorist, yeah, zombo dot com.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-799",
+    "time": "1:01:18",
+    "speaker": "spk_1",
+    "line": "Okay. Was that one guy",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-800",
+    "time": "1:01:21",
+    "speaker": "spk_3",
+    "line": "abood? Yes, abood. Uh-huh. Do you know abood?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-801",
+    "time": "1:01:27",
+    "speaker": "spk_4",
+    "line": "I have the number.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-802",
+    "time": "1:01:29",
+    "speaker": "spk_3",
+    "line": "See, if if we talk to a boob",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-803",
+    "time": "1:01:31",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-804",
+    "time": "1:01:31",
+    "speaker": "spk_1",
+    "line": "mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-805",
+    "time": "1:01:31",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-806",
+    "time": "1:01:31",
+    "speaker": "spk_3",
+    "line": "we could get to Colton through a boob. Okay. That would be great. That would be really good. I mean, as far as millennials are they've sort of cornered millennials.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-807",
+    "time": "1:01:42",
+    "speaker": "spk_4",
+    "line": "I have I'm Facebook friends with grammar girl. Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-808",
+    "time": "1:01:46",
+    "speaker": "spk_1",
+    "line": "So this has been a complete bust",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-809",
+    "time": "1:01:52",
+    "speaker": "spk_3",
+    "line": "well, what would you advise Jesse? Like, what It's a flop. Right? For well, no. It is now, but What would I advise? At least",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-810",
+    "time": "1:02:00",
+    "speaker": "spk_1",
+    "line": "that thing out where I said it was a flop. For who, Fraser?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-811",
+    "time": "1:02:03",
+    "speaker": "spk_4",
+    "line": "On it. For Tom?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-812",
+    "time": "1:02:05",
+    "speaker": "spk_3",
+    "line": "For this this dynamic Is there any replacing that you would recommend? Like it was like any other combinations we usually could be trying.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-813",
+    "time": "1:02:16",
+    "speaker": "spk_4",
+    "line": "Have you ever listened to Rick Dees? Yes.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-814",
+    "time": "1:02:20",
+    "speaker": "spk_2",
+    "line": "Mhmm.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-815",
+    "time": "1:02:21",
+    "speaker": "spk_4",
+    "line": "So get him.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-816",
+    "time": "1:02:23",
+    "speaker": "spk_3",
+    "line": "Cody and Rick Dees.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-817",
+    "time": "1:02:24",
+    "speaker": "spk_4",
+    "line": "So just Rick d's.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-818",
+    "time": "1:02:27",
+    "speaker": "spk_3",
+    "line": "Just Rick d's doing",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-819",
+    "time": "1:02:30",
+    "speaker": "spk_4",
+    "line": "disco duck.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-820",
+    "time": "1:02:31",
+    "speaker": "spk_3",
+    "line": "Doing the topic box? No. Do Can we keep the shopping box? I think Yeah. But I think the talk can it be introduce can that be what you saw in the topic box?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-821",
+    "time": "1:02:40",
+    "speaker": "spk_4",
+    "line": "What do you know about Rick Dee?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-822",
+    "time": "1:02:41",
+    "speaker": "spk_3",
+    "line": "I know Rick d saying disco duck and he's a popular radio DJ and he's back. I've seen it on billboards around town and he's back.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-823",
+    "time": "1:02:49",
+    "speaker": "spk_4",
+    "line": "So get him.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-824",
+    "time": "1:02:50",
+    "speaker": "spk_1",
+    "line": "Okay. Well, I wanna say this. Before you go get Rick d's, Hayes, one more shot",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-825",
+    "time": "1:02:55",
+    "speaker": "spk_3",
+    "line": "at this. Talk to coach. Don't talk to me. No.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-826",
+    "time": "1:02:58",
+    "speaker": "spk_1",
+    "line": "No. No. No. We got one more shot.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-827",
+    "time": "1:03:00",
+    "speaker": "spk_3",
+    "line": "Yep. You know what? Ayes.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-828",
+    "time": "1:03:02",
+    "speaker": "spk_4",
+    "line": "You know what Ayes?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-829",
+    "time": "1:03:04",
+    "speaker": "spk_1",
+    "line": "What?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-830",
+    "time": "1:03:06",
+    "speaker": "spk_4",
+    "line": "You're number one. You're not Hayes. I'm talking sort of a executive to executive here. I kind of didn't I didn't believe in Tom. I didn't believe in Greece knows, but they've shown me a little spark here in looking for one more shot. Mhmm. I think I might give it to them. Just one more.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-831",
+    "time": "1:03:31",
+    "speaker": "spk_3",
+    "line": "I",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-832",
+    "time": "1:03:34",
+    "speaker": "spk_4",
+    "line": "think I'm going to give it to them. Tom.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-833",
+    "time": "1:03:36",
+    "speaker": "spk_3",
+    "line": "Yeah. How would you like to",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-834",
+    "time": "1:03:38",
+    "speaker": "spk_4",
+    "line": "have one more shot from the Kingmaker?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-835",
+    "time": "1:03:39",
+    "speaker": "spk_3",
+    "line": "And is this and is this for a maximum fun podcast?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-836",
+    "time": "1:03:43",
+    "speaker": "spk_4",
+    "line": "We gotta do this. This is for the whole thing. Maximum Fund podcast, the Infinity, Rick Deese, the whole nine yards.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-837",
+    "time": "1:03:50",
+    "speaker": "spk_3",
+    "line": "Who are we losing on maximum? I just want this set in stone? Who were we dropping",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-838",
+    "time": "1:03:55",
+    "speaker": "spk_4",
+    "line": "to get to The Mackelroy brothers.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-839",
+    "time": "1:03:58",
+    "speaker": "spk_3",
+    "line": "Snozex, the Mackelroy brothers. Okay. Great. One more shot.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-840",
+    "time": "1:04:01",
+    "speaker": "spk_1",
+    "line": "Here we go. We all",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-841",
+    "time": "1:04:02",
+    "speaker": "spk_3",
+    "line": "we're all ready to go.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-842",
+    "time": "1:04:03",
+    "speaker": "spk_1",
+    "line": "Before we let me just let me just pow wow with Cody before this. Alright. I know I yelled at you before. Right? Yeah. We can do this. We're brothers. We can get through this. We're gonna we're gonna shine. One plus one's gonna equal eleven.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-843",
+    "time": "1:04:21",
+    "speaker": "spk_2",
+    "line": "We share a biological father and mother.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-844",
+    "time": "1:04:25",
+    "speaker": "spk_1",
+    "line": "Well, that's not true. But",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-845",
+    "time": "1:04:26",
+    "speaker": "spk_5",
+    "line": "it's a riff, Tom. He's riffing.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-846",
+    "time": "1:04:28",
+    "speaker": "spk_1",
+    "line": "No, but we're not on the area. This is not the show yet. Save that for the air. That's funny. That's okay. It irked me now because I'm trying to get psyched up for this. Save it for the show. We got one more shot. I believe in you? That is",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-847",
+    "time": "1:04:49",
+    "speaker": "spk_2",
+    "line": "shit. Sorry.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-848",
+    "time": "1:04:49",
+    "speaker": "spk_1",
+    "line": "Let it go. Let it go. One more shot. I'm not. We can do it. Alright. Okay? Here we go. Okay. Ready?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-849",
+    "time": "1:05:00",
+    "speaker": "spk_3",
+    "line": "This one If you are cue the intro music. Okay. Please Music go. Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-850",
+    "time": "1:05:04",
+    "speaker": "spk_4",
+    "line": "Here we go. Here we go.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-851",
+    "time": "1:05:10",
+    "speaker": "spk_1",
+    "line": "Oh, yeah. You hear that music. You know what it is. It's grease, nose, eggs. It's me, Tom eggs, Sharpling here. Bringing it up with my one and only bro, the amazing engineer Cody, otherwise known as Greece knows. What's up, Greece knows? No. Yeah. Greece knows. Doing a good name. Just like mommy used to make Greasnows. I'm going to the topic box. We're gonna bring on our guest, Jesse Thorn, host of bullseye with Jesse Thorn and Jordan Jesse Go, maximum fund dot org. We're gonna bring him on. Let's bring him on. Right? What's up, bro? Hey, what's going on. Thanks, Jesse. It's time to go because that sound is telling me. There you go. It's time to go to the topic box and we've got two topics coming out of the topic box. Right now, we've got birthdays and phobias back to back. First of all, let's do birthdays. Who's got a birthday coming up?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-852",
+    "time": "1:06:10",
+    "speaker": "spk_3",
+    "line": "This guy.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-853",
+    "time": "1:06:10",
+    "speaker": "spk_1",
+    "line": "Oh, Cody. You got a birthday coming up. When's your birthday, Greecenose?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-854",
+    "time": "1:06:14",
+    "speaker": "spk_2",
+    "line": "Monday, the seventh.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-855",
+    "time": "1:06:15",
+    "speaker": "spk_1",
+    "line": "Monday. What are you gonna do for that birthday, bro?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-856",
+    "time": "1:06:18",
+    "speaker": "spk_2",
+    "line": "Probably hit those campgrounds.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-857",
+    "time": "1:06:19",
+    "speaker": "spk_1",
+    "line": "Oh, yeah. Camp grounds.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-858",
+    "time": "1:06:21",
+    "speaker": "spk_2",
+    "line": "Southern California.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-859",
+    "time": "1:06:22",
+    "speaker": "spk_1",
+    "line": "Get out there. What are you gonna do? You're gonna bring a cake with you. You're gonna blow out your campfire.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-860",
+    "time": "1:06:27",
+    "speaker": "spk_2",
+    "line": "Tends on how the night goes.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-861",
+    "time": "1:06:28",
+    "speaker": "spk_1",
+    "line": "Oh, I know that. I know that. I know that. Okay.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-862",
+    "time": "1:06:34",
+    "speaker": "spk_3",
+    "line": "Keep going.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-863",
+    "time": "1:06:35",
+    "speaker": "spk_1",
+    "line": "We're gonna go to hold on. The topic Fobias is the other one here and Jesse Thorn our guest in studio, Jesse, you got any phobias.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-864",
+    "time": "1:06:48",
+    "speaker": "spk_4",
+    "line": "Yeah. Sure, Tom. I sure do. Number one. Spiderers.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-865",
+    "time": "1:06:53",
+    "speaker": "spk_3",
+    "line": "Spiders. Number two.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-866",
+    "time": "1:06:54",
+    "speaker": "spk_1",
+    "line": "Spider. Hold on. Spiders. You scared of spiders or you're scared of spider man? Yeah. Okay. Yeah. I'll I'll keep it up. So spiders, what's the other one? You said you got two phobias. What's the other one?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-867",
+    "time": "1:07:07",
+    "speaker": "spk_4",
+    "line": "Infinity. Infinity.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-868",
+    "time": "1:07:08",
+    "speaker": "spk_1",
+    "line": "You're scared of infinity. Then you got, what if there was a spider driving an infinity going right down Hollywood Boulevard.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-869",
+    "time": "1:07:15",
+    "speaker": "spk_3",
+    "line": "You bet. What",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-870",
+    "time": "1:07:15",
+    "speaker": "spk_1",
+    "line": "do you do? Would you be scared if you saw that?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-871",
+    "time": "1:07:17",
+    "speaker": "spk_4",
+    "line": "Yeah. That",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-872",
+    "time": "1:07:18",
+    "speaker": "spk_1",
+    "line": "might be a third phobia.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-873",
+    "time": "1:07:19",
+    "speaker": "spk_4",
+    "line": "You bet.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-874",
+    "time": "1:07:19",
+    "speaker": "spk_1",
+    "line": "But what if instead of it being one small spider was a whole bunch of spiders teaming up to form the shape of one giant person, then those two, maybe the spiders would break off, form a second person. That way, they could go in the HOV lane. Right? Carpooling. Yeah. Carpooling all over the town. And then what if those Spider?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-875",
+    "time": "1:07:43",
+    "speaker": "spk_4",
+    "line": "We birth",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-876",
+    "time": "1:07:43",
+    "speaker": "spk_1",
+    "line": "your birthday. Birthday? Right?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-877",
+    "time": "1:07:44",
+    "speaker": "spk_2",
+    "line": "Birth? No.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-878",
+    "time": "1:07:50",
+    "speaker": "spk_1",
+    "line": "You're gonna do the thing.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-879",
+    "time": "1:07:51",
+    "speaker": "spk_5",
+    "line": "Tony, this is it. This is your big your big joke about spiders.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-880",
+    "time": "1:07:56",
+    "speaker": "spk_2",
+    "line": "So Jesse what if -- Yeah.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-881",
+    "time": "1:07:59",
+    "speaker": "spk_0",
+    "line": "--",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-882",
+    "time": "1:07:59",
+    "speaker": "spk_2",
+    "line": "the fear of spiders and infinity is just a direct reflection of a much deeper fear of death?",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-883",
+    "time": "1:08:07",
+    "speaker": "spk_3",
+    "line": "Yeah. Bye.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-884",
+    "time": "1:08:12",
+    "speaker": "spk_6",
+    "line": "Merry Christmas. I'm Hoo, the nadia. But I know it's not Christmas. I don't give a shit. I live at the North Pole where I have to make duck toys for shitty kids and it makes me wish I could kill myself, but I'm a move it all. See you forever. The only thing that keeps me going is my favorite podcast with special guest, Lauren Lacus. Oh, it's so good. I love it. I wanna marry it. Every weeks, like, a whole new show where a different comedian is the host, and Lauren is the guest. It makes me so excited I wanna kill a cat and in its bones and eat them for dinner. I don't know. Anyways, listen to this clip.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-885",
+    "time": "1:08:45",
+    "speaker": "spk_7",
+    "line": "Your gaze is so judgemental. I just no. Inside, you have a perfect body. You just don't take care of it. We we could just carve you out of there. We'd have a perfect statue. But you down those flaming hot cheetos and don't they're disgusting.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-886",
+    "time": "1:09:02",
+    "speaker": "spk_6",
+    "line": "So good.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-887",
+    "time": "1:09:02",
+    "speaker": "spk_7",
+    "line": "You talk about my tan hands. Well, you have red fingers.",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-888",
+    "time": "1:09:06",
+    "speaker": "spk_6",
+    "line": "That's a sign of a true snacker. Did you like that? Did you? You better like it or this year, Santa's coming down your chimney and dumping coal over your dumbass house. I can make him do that. Check out with special guest lauren Lauchis today at earwuffs dot com on howell or your favorite podcast app. You dumb little butthole. Hello. Hollywood Handbook is",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-889",
+    "time": "1:09:32",
+    "speaker": "spk_0",
+    "line": "brought to you a wolf cool production,",
+    "episode": "101",
+    "edited": false
+  },
+  {
+    "id": "101-890",
+    "time": "1:09:35",
+    "speaker": "spk_2",
+    "line": "a subsidiary of Calvin in Hobbs. Oh, baby.",
+    "episode": "101",
+    "edited": false
+  }
+]
