@@ -26,7 +26,9 @@
 		>
 			<div class="w-1/4">Episode #{episode.ep}</div>
 			<div class="w-3/4 text-xl hover:underline">
-				<a href={`/ep/${episode.ep}`}>{episode.title}</a>
+				<!-- <a href={`/ep/${episode.ep}`}> -->
+				{episode.title}
+				<!-- </a> -->
 			</div>
 			<div class="w-full">{new Date(episode.date).toLocaleDateString()}</div>
 			<div class="w-full">{episode.desc}</div>
