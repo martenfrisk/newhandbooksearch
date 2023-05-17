@@ -1,38 +1,20 @@
-# create-svelte
+# (New) Seekers' Lounge
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
+Seekers' Lounge is a search engine with the transcripts of episodes of the Teachers' Lounge podcast. This version is updated to use Svelte Kit and MeiliSearch hosted on AWS.
 
-## Creating a project
+## Usage
 
-If you're seeing this, you've probably already done this step. Congrats!
+You can see the deployed version at seekerslounge.pcast.site
+Feel free to download the code here and do whatever you want with it.
+Raw transcripts can be found here: https://github.com/martenfrisk/seekerslounge/tree/master/src/transcripts
 
-```bash
-# create a new project in the current directory
-npm init svelte@next
+## Contributing
 
-# create a new project in my-app
-npm init svelte@next my-app
-```
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-> Note: the `@next` is temporary
+No technical knowledge is needed to help editing the episodes. Just some patience. They don't have to be perfectly edited - just corrected enough to make searching easier. We have completed two episodes so far (s01e01, mini-07).
+When you're done, issue a PR or message me here or on reddit u/martanor.
 
-## Developing
+## License
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:
-
-```bash
-npm run build
-```
-
-> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.
+[MIT](https://choosealicense.com/licenses/mit/)

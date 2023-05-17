@@ -1,0 +1,23 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 info pnpm": {
+    "err": {
+      "name": "Error",
+      "message": "not found: up@latest",
+      "code": "ENOENT",
+      "stack": "Error: not found: up@latest\n    at getNotFoundError (/Users/testuser/.nvm/versions/node/v18.3.0/lib/node_modules/pnpm/dist/pnpm.cjs:41714:51)\n    at Function.whichSync [as sync] (/Users/testuser/.nvm/versions/node/v18.3.0/lib/node_modules/pnpm/dist/pnpm.cjs:41791:13)\n    at getCommandAbsolutePathSync (/Users/testuser/.nvm/versions/node/v18.3.0/lib/node_modules/pnpm/dist/pnpm.cjs:43356:44)\n    at default_1 (/Users/testuser/.nvm/versions/node/v18.3.0/lib/node_modules/pnpm/dist/pnpm.cjs:43365:32)\n    at /Users/testuser/.nvm/versions/node/v18.3.0/lib/node_modules/pnpm/dist/pnpm.cjs:178485:39"
+    }
+  },
+  "2 error pnpm": {
+    "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+    "prefix": "/Users/testuser/Web/newhandbooksearch",
+    "err": {
+      "name": "pnpm",
+      "message": "not found: up@latest",
+      "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+      "stack": "Error: not found: up@latest\n    at getNotFoundError (/Users/testuser/.nvm/versions/node/v18.3.0/lib/node_modules/pnpm/dist/pnpm.cjs:41714:51)\n    at Function.whichSync [as sync] (/Users/testuser/.nvm/versions/node/v18.3.0/lib/node_modules/pnpm/dist/pnpm.cjs:41791:13)\n    at getCommandAbsolutePathSync (/Users/testuser/.nvm/versions/node/v18.3.0/lib/node_modules/pnpm/dist/pnpm.cjs:43356:44)\n    at default_1 (/Users/testuser/.nvm/versions/node/v18.3.0/lib/node_modules/pnpm/dist/pnpm.cjs:43365:32)\n    at /Users/testuser/.nvm/versions/node/v18.3.0/lib/node_modules/pnpm/dist/pnpm.cjs:178485:39"
+    }
+  }
+}

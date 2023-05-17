@@ -1,13 +1,12 @@
 <script lang="ts">
-	import { EpList } from '../assets/hheplist';
+	import EpList from '../assets/episodes.json';
 	$: sort = 'oldest';
 	$: sortedList = EpList;
 	function sorter() {
-		if (sort === 'newest') sortedList = sortedList.sort((a, b) => Number(a.id) - Number(b.id));
-		if (sort === 'oldest') sortedList = sortedList.sort((a, b) => Number(b.id) - Number(a.id));
+		if (sort === 'newest') sortedList = sortedList.sort((a, b) => Number(a.ep) - Number(b.ep));
+		if (sort === 'oldest') sortedList = sortedList.sort((a, b) => Number(b.ep) - Number(a.ep));
 		sort === 'oldest' ? (sort = 'newest') : (sort = 'oldest');
 	}
-
 </script>
 
 <div class="flex flex-col w-full px-4 py-10">
@@ -24,12 +23,12 @@
 				index % 2 === 0 ? 'bg-white' : 'bg-yellow-50'
 			}`}
 		>
-			<div class="w-1/4">Episode #{episode.id}</div>
+			<div class="w-1/4">Episode #{episode.ep}</div>
 			<div class="w-3/4 text-xl hover:underline">
-				<a href={`/ep/${episode.id}`}>{episode.title}</a>
+				<a href={`/ep/${episode.ep}`}>{episode.title}</a>
 			</div>
-			<div class="w-full">{new Date(episode.isoDate).toLocaleDateString()}</div>
-			<div class="w-full">{episode.description}</div>
+			<div class="w-full">{new Date(episode.date).toLocaleDateString()}</div>
+			<div class="w-full">{episode.desc}</div>
 		</div>
 	{/each}
 </div>

@@ -1,36 +1,39 @@
 {
-  "name": "handbooksearch",
-  "version": "0.0.1",
-  "scripts": {
-    "dev": "svelte-kit dev --open",
-    "build": "svelte-kit build",
-    "preview": "svelte-kit preview",
-    "lint": "prettier --check --plugin-search-dir=. . && eslint --ignore-path .gitignore .",
-    "format": "prettier --write --plugin-search-dir=. ."
-  },
-  "devDependencies": {
-    "@sveltejs/adapter-vercel": "^1.0.0-next.24",
-    "@sveltejs/kit": "next",
-    "@typescript-eslint/eslint-plugin": "^4.28.3",
-    "@typescript-eslint/parser": "^4.28.3",
-    "autoprefixer": "^10.3.1",
-    "cssnano": "^5.0.6",
-    "eslint": "^7.30.0",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-svelte3": "^3.2.0",
-    "postcss": "^8.3.5",
-    "postcss-load-config": "^3.1.0",
-    "prettier": "~2.2.1",
-    "prettier-plugin-svelte": "^2.3.1",
-    "svelte": "^3.38.3",
-    "svelte-preprocess": "^4.7.4",
-    "tailwindcss": "^2.2.4",
-    "tslib": "^2.3.0",
-    "typescript": "^4.3.5"
-  },
-  "type": "module",
-  "dependencies": {
-    "cookie": "^0.4.1",
-    "meilisearch": "^0.18.2"
-  }
+	"name": "seekerslounge",
+	"version": "0.0.1",
+	"license": "MIT",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview",
+		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
+		"lint": "prettier --plugin-search-dir . --check . && eslint .",
+		"format": "prettier --plugin-search-dir . --write ."
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-auto": "^2.0.1",
+		"@sveltejs/kit": "^1.15.9",
+		"@typescript-eslint/eslint-plugin": "^5.59.1",
+		"@typescript-eslint/parser": "^5.59.1",
+		"autoprefixer": "^10.4.14",
+		"eslint": "^8.39.0",
+		"eslint-config-prettier": "^8.8.0",
+		"eslint-plugin-svelte": "^2.27.2",
+		"postcss": "^8.4.23",
+		"prettier": "^2.8.8",
+		"prettier-plugin-svelte": "^2.10.0",
+		"svelte": "^3.58.0",
+		"svelte-check": "^3.2.0",
+		"tailwindcss": "^3.3.2",
+		"tslib": "^2.5.0",
+		"typescript": "^5.0.4",
+		"vite": "^4.3.3"
+	},
+	"type": "module",
+	"dependencies": {
+		"@vercel/analytics": "^1.0.0",
+		"fuse.js": "^6.6.2",
+		"meilisearch": "^0.32.3"
+	}
 }
